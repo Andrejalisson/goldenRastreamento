@@ -35,12 +35,11 @@
             <div class="top-header">
                 <div class="container">
                     <div class="left-info">
-                        <p><i class="cameron-icon-email"></i><a href="mailto:support@example.com">support@example.com</a></p>
+                        <p><i class="cameron-icon-email"></i><a href="mailto:contato@grupogoldenservice.com.br">contato@grupogoldenservice.com.br</a></p>
                     </div><!-- /.left-info -->
                     <div class="right-info">
                         <ul class="info-block">
-                            <li><i class="cameron-icon-support"></i><a href="#">(0121) 268 3610</a></li>
-                            <li><a href="cart.html" class="cart-btn"><i class="cameron-icon-shopping-bag"></i><span class="count-text">(0)</span></a></li>
+                            <li><i class="cameron-icon-support"></i><a href="tel:+558530650917">(85) 3065-0917</a></li>
                         </ul>
                     </div><!-- /.right-info -->
                 </div><!-- /.container -->
@@ -50,8 +49,8 @@
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="logo-box clearfix">
                         <a class="navbar-brand" href="index.html">
-                            <img src="images/resources/logo-1-1.png" class="main-logo" alt="Awesome Image"/>
-                            <img src="images/resources/logo-1-2.png" class="stricky-logo" alt="Awesome Image"/>
+                            <img src="images/resources/logo-1-1.png" class="main-logo" alt="Golden Service"/>
+                            <img src="images/resources/logo-1-2.png" class="stricky-logo" alt="Golden Service"/>
                         </a>
 
                         <button class="menu-toggler" data-target=".header-style-one .main-navigation">
@@ -62,68 +61,19 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="main-navigation">
                         <ul class=" navigation-box">
-                            <li class="current">
-                                <a href="index.html">Home</a>
-                                <ul class="sub-menu">
-                                    <li><a href="index.html">Home One</a></li>
-                                    <li><a href="index2.html">Home Two</a></li>
-                                    <li><a href="#">Header Versions</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="index.html">Header One</a></li>
-                                            <li><a href="index2.html">Header Two</a></li>
-                                        </ul><!-- /.sub-menu -->
-                                    </li>
-                                </ul><!-- /.sub-menu -->
-                            </li>
-                            <li>
-                                <a href="about.html">About</a>                            
-                            </li>
-                            <li>
-                                <a href="services.html">Services</a>
-                                <ul class="sub-menu">
-                                    <li><a href="private.html">Private Security</a></li>
-                                    <li><a href="transport.html">Transport Security</a></li>
-                                    <li><a href="home.html">Home Security</a></li>
-                                    <li class="active"><a href="busniess.html">Business Security</a></li>
-                                    <li><a href="protocol.html">Protocol Duties</a></li>
-                                    <li><a href="armed.html">Armed Security</a></li>
-                                </ul><!-- /.sub-menu -->
-                            </li>
-                            <li>
-                                <a href="#">Pages</a>
-                                <ul class="sub-menu">
-                                    <li><a href="team.html">Team</a></li>
-                                    <li><a href="testimonials.html">Testimonials</a></li>
-                                    <li><a href="pricing.html">Pricing</a></li>
-                                    <li><a href="gallery.html">Gallery</a></li>
-                                </ul><!-- /.sub-menu -->
-                            </li>
-                            <li>
-                                <a href="shop.html">Shop</a>
-                                <ul class="sub-menu">
-                                    <li><a href="shop.html">Shop Page</a></li>
-                                    <li><a href="shop-single.html">Product Page</a></li>
-                                    <li><a href="cart.html">Cart Page</a></li>
-                                    <li><a href="checkout.html">Checkout Page</a></li>
-                                </ul><!-- /.sub-menu -->
-                            </li>
-                            <li>
-                                <a href="blog.html">Blog</a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog.html">Blog Style 01</a></li>
-                                    <li><a href="blog-2.html">Blog Style 02</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                </ul><!-- /.sub-menu -->
-                            </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="#">Sobre</a></li>
+                            <li><a href="#">Rastreamento</a></li>
+                            <li><a href="#">Seguro</a></li>
+                            <li><a href="#">Serviços</a></li>
+                            <li><a href="#">Área do Cliente</a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
                     <div class="right-side-box">
                         <div class="social">
-                            <a href="#"><i class="fa fa-facebook-f"></i></a><!--
-                            --><a href="#"><i class="fa fa-twitter"></i></a><!--
-                            --><a href="#"><i class="fa fa-vimeo"></i></a><!--
-                            --><a href="#"><i class="fa fa-google-plus"></i></a>
+                            <a href="#" target="_blank"><i class="fa fa-facebook-f"></i></a>
+                            <a href="https://www.instagram.com/golden_service/" target="_blank"><i class="fa fa-instagram"></i></a>
+                            <a href="#" target="_blank"><i class="fa fa-youtube"></i></a>
+                            
                         </div><!-- /.social -->
                     </div><!-- /.right-side-box -->
                 </div>
