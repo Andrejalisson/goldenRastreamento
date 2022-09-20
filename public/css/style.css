@@ -237,7 +237,7 @@ a:visited {
 .header-navigation ul.navigation-box > li > a {
   font-weight: 500;
   font-size: 17px;
-  color: #182345;
+  color: #fff;
   padding: 0;
   transition: all .4s ease;
   position: relative;
