@@ -132,8 +132,8 @@
         <section class="offer-style-one">
             <div class="container">
                 <div class="title-block">
-                    <span class="tag-line">Offers</span><!-- /.tag-line -->
-                    <h2>Our Best Offer</h2>
+                    <span class="tag-line">Serviços</span><!-- /.tag-line -->
+                    <h2>Golden Service</h2>
                 </div><!-- /.title-block -->
                 <div class="row">
                     <div class="col-lg-3 col-md-6">
