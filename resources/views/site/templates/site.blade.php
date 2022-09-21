@@ -139,7 +139,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="0ms">
                             <div class="icon-block">
-                                <i class="fa-solid fa-location-dot"></i>
+                                <i class="fa fa-map-marker" aria-hidden="true"></i>
                             </div><!-- /.icon-block -->
                             <h3><a href="#">Rastreamento<br>Veicular</a></h3>
                             <p>Com nossa tecnologia de rastreamento para veículos, você pode saber a localização, bloquear/desbloquear, e contar com alertas antifurto, que podem ser ativados no app baixado no seu celular.   Receba uma notificação quando seu veículo tiver a ignição ligada ou quando ultrapassar uma distância de 100 m. Em caso de roubo ou furto, o rastreamento facilita a localização e a recuperação. Garantimos a você menos preocupação e mais segurança com seu bem.</p>
@@ -149,7 +149,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="500ms">
                             <div class="icon-block">
-                                <i class="fa-regular fa-handshake"></i>
+                                <i class="fa fa-handshake-o" aria-hidden="true"></i>
                             </div><!-- /.icon-block -->
                             <h3><a href="#">Seguro<br>  </a></h3>
                             <p>Para muito mais segurança e qualidade de vida, oferecemos seguro autorizado pela SUSEP para seu veículo e para tudo que é importante para você! Temos parceria com mais de 30 seguradoras, que permite encontrarmos  um seguro que atenda as suas necessidades e ao seu bolso.</p>
@@ -159,7 +159,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1000ms">
                             <div class="icon-block">
-                                <i class="fa-solid fa-wrench"></i>
+                                <i class="fa fa-cogs" aria-hidden="true"></i>
                             </div><!-- /.icon-block -->
                             <h3><a href="#">Assistência<br>Veicular 24h</a></h3>
                             <p>Por todo o Brasil e com funcionamento 24 horas por dia, você pode contar com soluções para imprevistos com seu veículo, como: Reboque, Chaveiro, Mecânico, Troca de Pneu Furado e muito mais! Além disso, conte com uma central 0800 de atendimento 24h/7dias.</p>
@@ -169,7 +169,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1500ms">
                             <div class="icon-block">
-                                <i class="fa-solid fa-car-battery"></i>
+                                <i class="fa fa-battery-quarter" aria-hidden="true"></i>
                             </div><!-- /.icon-block -->
                             <h3><a href="#">Bateria<br>Moura</a></h3>
                             <p>Precisando trocar a bateria do seu veículo? Oferecemos a melhor bateria do mercado, e a mais vendida do país! Adquira Bateria Moura  com as melhores condições de pagamento, e se preferir, instalamos em sua residência!</p>
