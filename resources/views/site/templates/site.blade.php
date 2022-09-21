@@ -222,7 +222,7 @@
                         <div class="count-block">
                             03
                         </div><!-- /.count-block -->
-                        <h3>Valores que vivenciamos:</h3>
+                        <h3>Valores</h3>
                         <p><strong>Sinceridade e Confiança</strong> <br> Somos transparentes, trabalhamos com a verdade; <br>
                         <strong>Meritocracia e autorresponsabilidade</strong> <br> Você é os seus resultados <br>
                         <strong>Gratidão e Felicidade</strong> <br> Ser grato por tudo e felizes na jornada, sempre. <br>
