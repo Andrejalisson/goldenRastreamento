@@ -169,7 +169,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1500ms">
                             <div class="icon-block">
-                                <i class="fa fa-battery-quarter" aria-hidden="true"></i>
+                                <i class="fa fa-battery-full" aria-hidden="true"></i>
                             </div><!-- /.icon-block -->
                             <h3><a href="#">Bateria<br>Moura</a></h3>
                             <p>Precisando trocar a bateria do seu veículo? Oferecemos a melhor bateria do mercado, e a mais vendida do país! Adquira Bateria Moura  com as melhores condições de pagamento, e se preferir, instalamos em sua residência!</p>
