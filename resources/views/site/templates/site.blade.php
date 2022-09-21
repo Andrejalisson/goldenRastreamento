@@ -172,7 +172,7 @@
                                 <i class="cameron-icon-support"></i>
                             </div><!-- /.icon-block -->
                             <h3><a href="#">Bateria<br>Moura</a></h3>
-                            <p>Precisando trocar a bateria? Temos a bateria Moura que é a melhor bateria do mercado e a mais vendida do país! Oferecemos a melhores condições de pagamento,  e a instalação pode ser realizada na sua residência.</p>
+                            <p>Precisando trocar a bateria do seu veículo? Oferecemos a melhor bateria do mercado, e a mais vendida do país!Adquira Bateria Moura  com as melhores condições de pagamento, e se preferir, instalamos em sua residência!</p>
                             <a href="#" class="more-link">Ver mais</a>
                         </div><!-- /.single-offer-style-one -->
                     </div><!-- /.col-lg-3 -->
