@@ -142,7 +142,7 @@
                                 <i class="cameron-icon-temperature"></i>
                             </div><!-- /.icon-block -->
                             <h3><a href="#">Rastreamento<br>Veicular</a></h3>
-                            <p>Com nossa tecnologia de rastreamento para veículos você pode saber a localização do seu veículo, bloquear e desbloquear, e contar com alertas antifurtos que podem ser ativados no aplicativo baixado no seu celular que avisam quando veículo tiver a ignição ligada ou ultrapassar uma faixa de 100m. Se levarem seu veículo localizamos e recuperamos prontamente! Garantindo a você mais tranquilidade e segurança com seu veículo. </p>
+                            <p>Com nossa tecnologia de rastreamento para veículos, você pode saber a localização, bloquear/desbloquear, e contar com alertas antifurto, que podem ser ativados no app baixado no seu celular.   Receba uma notificação quando seu veículo tiver a ignição ligada ou quando ultrapassar uma distância de 100 m. Se levarem o veículo, localizamos e recuperamos! Garantimos a você menos preocupação e mais segurança com seu bem.</p>
                             <a href="#" class="more-link">Ver mais</a>
                         </div><!-- /.single-offer-style-one -->
                     </div><!-- /.col-lg-3 -->
