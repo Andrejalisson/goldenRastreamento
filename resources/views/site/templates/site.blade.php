@@ -189,11 +189,8 @@
                                 <h2>Desde 2008</h2>
                             </div><!-- /.title-block -->
                             <p>Com mais de 11 anos de existência, a Golden Service vem garantindo segurança, com confiabilidade para os seus clientes. Com foco na qualidade do atendimento, contribuímos para o aumento da segurança daquilo que é importante para você.</p>
-                            <ul class="list-item">
-                                <li><i class="fa fa-circle-o"></i> Convallis ligula ligula gravida tristique.</li>
-                                <li><i class="fa fa-circle-o"></i> Convallis ligula ligula gravida tristique.</li>
-                            </ul><!-- /.list-item -->
-                            <a href="#" class="more-btn">Get Started</a>
+                            
+                            <a href="#" class="more-btn">Entrar em contato</a>
                         </div><!-- /.content-block -->
                     </div><!-- /.col-lg-6 -->
                     <div class="col-lg-6">
@@ -211,22 +208,26 @@
                         <div class="count-block">
                             01
                         </div><!-- /.count-block -->
-                        <h3>Our Stories</h3>
-                        <p>Retro tattooed tousled, disrupt portland <br> synth slow-carb brooklyn.</p>
+                        <h3>Missão</h3>
+                        <p>Melhorar a qualidade de vida dos nossos clientes <br> com soluções customizadas em segurança.</p>
                     </div><!-- /.single-mission-one -->
                     <div class="single-mission-one">
                         <div class="count-block">
                             02
                         </div><!-- /.count-block -->
-                        <h3>Our Mission</h3>
-                        <p>Retro tattooed tousled, disrupt portland <br> synth slow-carb brooklyn.</p>
+                        <h3>Visão</h3>
+                        <p>Crescer de forma responsável, buscando a melhoria <br> continua atendendo diversos setores do mercado.</p>
                     </div><!-- /.single-mission-one -->
                     <div class="single-mission-one">
                         <div class="count-block">
                             03
                         </div><!-- /.count-block -->
-                        <h3>Our Vision</h3>
-                        <p>Retro tattooed tousled, disrupt portland <br> synth slow-carb brooklyn.</p>
+                        <h3>Valores que vivenciamos:</h3>
+                        <p><strong>Sinceridade e Confiança</strong> <br> Somos transparentes, trabalhamos com a verdade; <br>
+                        <strong>Meritocracia e autorresponsabilidade</strong> <br> Você é os seus resultados <br>
+                        <strong>Gratidão e Felicidade</strong> <br> Ser grato por tudo e felizes na jornada, sempre. <br>
+                        <strong>Garra e Consistência</strong> <br> O que precisa ser feito, será feito. <br>
+                        </p>
                     </div><!-- /.single-mission-one -->
                 </div><!-- /.inner-container -->
             </div><!-- /.container -->
