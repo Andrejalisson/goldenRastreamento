@@ -185,10 +185,10 @@
                     <div class="col-lg-6 d-flex">
                         <div class="content-block my-auto">
                             <div class="title-block">
-                                <span class="tag-line">Some Story</span><!-- /.tag-line -->
-                                <h2>20 Years Of Experience</h2>
+                                <span class="tag-line">Sobre a Golden Service</span><!-- /.tag-line -->
+                                <h2>Desde 2008</h2>
                             </div><!-- /.title-block -->
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiu smod tempor incidunt enim ad minim veniam quis nostrud exerc tation ullamco laboris nisi ut aliquip ex ea commodo con sequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</p>
+                            <p>Com mais de 11 anos de existência, a Golden Service vem garantindo segurança, com confiabilidade para os seus clientes. Com foco na qualidade do atendimento, contribuímos para o aumento da segurança daquilo que é importante para você.</p>
                             <ul class="list-item">
                                 <li><i class="fa fa-circle-o"></i> Convallis ligula ligula gravida tristique.</li>
                                 <li><i class="fa fa-circle-o"></i> Convallis ligula ligula gravida tristique.</li>
