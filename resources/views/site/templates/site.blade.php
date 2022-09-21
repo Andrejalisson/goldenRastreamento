@@ -162,7 +162,7 @@
                                 <i class="cameron-icon-safe-box"></i>
                             </div><!-- /.icon-block -->
                             <h3><a href="#">Assistência<br>Veicular 24h</a></h3>
-                            <p>Por todo o Brasil e funcionamento 24 horas por dia, você pode contar com soluções para imprevistos com seu veículo, como reboque, mecânico,  troca de pneu furado e muito mais, além disso, conte com uma central 0800 exclusiva 24h/7dias. </p>
+                            <p>Por todo o Brasil e com funcionamento 24 horas por dia, você pode contar com soluções para imprevistos com seu veículo, como: Reboque, Chaveiro, Mecânico, Troca de Pneu Furado e muito mais! Além disso, conte com uma central 0800 de atendimento 24h/7dias.</p>
                             <a href="#" class="more-link">Ver mais</a>
                         </div><!-- /.single-offer-style-one -->
                     </div><!-- /.col-lg-3 -->
