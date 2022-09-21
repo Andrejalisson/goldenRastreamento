@@ -2616,7 +2616,7 @@ a:visited {
 .offer-style-one .title-block .tag-line {
   display: inline-block;
   vertical-align: middle;
-  color: #ffde00;
+  color: #333;
   font-size: 20px;
   font-weight: 500;
   line-height: 1em;
