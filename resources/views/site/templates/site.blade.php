@@ -62,6 +62,7 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="main-navigation">
                         <ul class=" navigation-box">
+                            <li><a href="/">Home</a></li>
                             <li><a href="#">Sobre</a></li>
                             <li><a href="#">Rastreamento</a></li>
                             <li><a href="#">Seguro</a></li>
@@ -140,9 +141,9 @@
                             <div class="icon-block">
                                 <i class="cameron-icon-temperature"></i>
                             </div><!-- /.icon-block -->
-                            <h3><a href="#">Home <br> Security</a></h3>
-                            <p>Excepteur sint occaecat cupidatat non proi dent sunt in culpa qui officia deserunt mollit.</p>
-                            <a href="#" class="more-link">Read More</a>
+                            <h3><a href="#">Rastreamento<br>Veicular</a></h3>
+                            <p>Com nossa tecnologia de rastreamento para veículos você pode saber a localização do seu veículo, bloquear e desbloquear, e contar com alertas antifurtos que podem ser ativados no aplicativo baixado no seu celular que avisam quando veículo tiver a ignição ligada ou ultrapassar uma faixa de 100m. Se levarem seu veículo localizamos e recuperamos prontamente! Garantindo a você mais tranquilidade e segurança com seu veículo. </p>
+                            <a href="#" class="more-link">Ver mais</a>
                         </div><!-- /.single-offer-style-one -->
                     </div><!-- /.col-lg-3 -->
                     <div class="col-lg-3 col-md-6">
@@ -150,9 +151,9 @@
                             <div class="icon-block">
                                 <i class="cameron-icon-briefcase"></i>
                             </div><!-- /.icon-block -->
-                            <h3><a href="#">Business <br> Security</a></h3>
-                            <p>Excepteur sint occaecat cupidatat non proi dent sunt in culpa qui officia deserunt mollit.</p>
-                            <a href="#" class="more-link">Read More</a>
+                            <h3><a href="#">Seguro<br>  </a></h3>
+                            <p>Para muito mais segurança e qualidade de vida oferecemos seguro autorizado pela SUSEP para seu veículo e para tudo que é importante para você. Temos parceria com + de 30 seguradoras, que permite encontrarmos um seguro que atenda as suas necessidades e ao seu bolso.</p>
+                            <a href="#" class="more-link">Ver mais</a>
                         </div><!-- /.single-offer-style-one -->
                     </div><!-- /.col-lg-3 -->
                     <div class="col-lg-3 col-md-6">
@@ -160,9 +161,9 @@
                             <div class="icon-block">
                                 <i class="cameron-icon-safe-box"></i>
                             </div><!-- /.icon-block -->
-                            <h3><a href="#">Information <br> Security</a></h3>
-                            <p>Excepteur sint occaecat cupidatat non proi dent sunt in culpa qui officia deserunt mollit.</p>
-                            <a href="#" class="more-link">Read More</a>
+                            <h3><a href="#">Assistência<br>Veicular 24h</a></h3>
+                            <p>Por todo o Brasil e funcionamento 24 horas por dia, você pode contar com soluções para imprevistos com seu veículo, como reboque, mecânico,  troca de pneu furado e muito mais, além disso, conte com uma central 0800 exclusiva 24h/7dias. </p>
+                            <a href="#" class="more-link">Ver mais</a>
                         </div><!-- /.single-offer-style-one -->
                     </div><!-- /.col-lg-3 -->
                     <div class="col-lg-3 col-md-6">
@@ -170,9 +171,9 @@
                             <div class="icon-block">
                                 <i class="cameron-icon-support"></i>
                             </div><!-- /.icon-block -->
-                            <h3><a href="#">Useful <br> Support</a></h3>
-                            <p>Excepteur sint occaecat cupidatat non proi dent sunt in culpa qui officia deserunt mollit.</p>
-                            <a href="#" class="more-link">Read More</a>
+                            <h3><a href="#">Bateria<br>Moura</a></h3>
+                            <p>Precisando trocar a bateria? Temos a bateria Moura que é a melhor bateria do mercado e a mais vendida do país! Oferecemos a melhores condições de pagamento,  e a instalação pode ser realizada na sua residência.</p>
+                            <a href="#" class="more-link">Ver mais</a>
                         </div><!-- /.single-offer-style-one -->
                     </div><!-- /.col-lg-3 -->
                 </div><!-- /.row -->
