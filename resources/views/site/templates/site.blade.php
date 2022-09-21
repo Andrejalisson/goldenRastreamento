@@ -139,7 +139,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="0ms">
                             <div class="icon-block">
-                                <i class="cameron-icon-temperature"></i>
+                                <i class="fa fa-circle-o"></i>
                             </div><!-- /.icon-block -->
                             <h3><a href="#">Rastreamento<br>Veicular</a></h3>
                             <p>Com nossa tecnologia de rastreamento para veículos, você pode saber a localização, bloquear/desbloquear, e contar com alertas antifurto, que podem ser ativados no app baixado no seu celular.   Receba uma notificação quando seu veículo tiver a ignição ligada ou quando ultrapassar uma distância de 100 m. Em caso de roubo ou furto, o rastreamento facilita a localização e a recuperação. Garantimos a você menos preocupação e mais segurança com seu bem.</p>
