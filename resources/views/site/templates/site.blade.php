@@ -209,14 +209,14 @@
                             01
                         </div><!-- /.count-block -->
                         <h3>Missão</h3>
-                        <p>Melhorar a qualidade de vida dos nossos clientes <br> com soluções customizadas em segurança.</p>
+                        <p>Melhorar a qualidade de vida dos nossos <br>clientes com soluções customizadas em segurança.</p>
                     </div><!-- /.single-mission-one -->
                     <div class="single-mission-one">
                         <div class="count-block">
                             02
                         </div><!-- /.count-block -->
                         <h3>Visão</h3>
-                        <p>Crescer de forma responsável, buscando a melhoria <br> continua atendendo diversos setores do mercado.</p>
+                        <p>Crescer de forma responsável, buscando a <br> melhoria continua atendendo diversos setores do mercado.</p>
                     </div><!-- /.single-mission-one -->
                     <div class="single-mission-one">
                         <div class="count-block">
