@@ -613,7 +613,7 @@ a:visited {
 }
 .banner-style-one .banner-title {
   margin: 0;
-  color: #FFFFFF;
+  color: #333;
   font-size: 60px;
   font-weight: 500;
   margin-bottom: 20px;
@@ -626,7 +626,7 @@ a:visited {
   font-weight: 700;
 }
 .banner-style-one p {
-  color: #B2B3BA;
+  color: #333;
   font-size: 18px;
   font-weight: 400;
   font-family: poppins, sans-serif;
