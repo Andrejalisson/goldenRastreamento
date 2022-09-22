@@ -87,39 +87,39 @@
                 <div class="slide slide-one" style="background-image: url(images/slider/slider-1-1.jpg);">
                     <div class="container">
                         <div class="row">
-                            <div class="col-lg-12 text-center">
+                            <!-- <div class="col-lg-12 text-center">
                                 <h3 class="banner-title">Keep <strong>Safe & <br> Happy</strong> Your Mind</h3>
                                 <p>Lorem ipsum dolor sit amet consectetur <br> adipisicing elit sed do eiusmod </p>
                                 <div class="btn-block">
                                     <a href="#" class="banner-btn">Get Appointment</a>
-                                </div><!-- /.btn-block -->
-                            </div><!-- /.col-lg-12 -->
+                                </div>
+                            </div> -->
                         </div><!-- /.row -->
                     </div><!-- /.container -->
                 </div><!-- /.slide -->
                 <div class="slide slide-two" style="background-image: url(images/slider/slider-1-2.jpg);">
                     <div class="container">
                         <div class="row">
-                            <div class="col-lg-6">
+                            <!-- <div class="col-lg-6">
                                 
                                 <div class="btn-block">
                                     <a href="https://wa.me/5585985214611" target="_blank" class="banner-btn">Indique agora.</a>
-                                </div><!-- /.btn-block -->
+                                </div>
                                 
-                            </div><!-- /.col-lg-6 -->
+                            </div> -->
                         </div><!-- /.row -->
                     </div><!-- /.container -->
                 </div><!-- /.slide -->
                 <div class="slide slide-three" style="background-image: url(images/slider/slider-1-3.jpg);">
                     <div class="container">
                         <div class="row justify-content-end">
-                            <div class="col-lg-6">
+                            <!-- <div class="col-lg-6">
                                 <h3 class="banner-title">Keep <strong>Safe & <br> Happy</strong> Your Mind</h3>
                                 <p>Lorem ipsum dolor sit amet consectetur <br> adipisicing elit sed do eiusmod </p>
                                 <div class="btn-block">
                                     <a href="#" class="banner-btn">Get Appointment</a>
-                                </div><!-- /.btn-block -->
-                            </div><!-- /.col-lg-6 -->
+                                </div>
+                            </div> -->
                         </div><!-- /.row -->
                     </div><!-- /.container -->
                 </div><!-- /.slide -->
