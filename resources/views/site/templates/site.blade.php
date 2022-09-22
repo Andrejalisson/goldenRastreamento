@@ -101,8 +101,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h3 class="banner-title">Sua indicação <strong>Vale desconto!</strong></h3>
-                                <p>Traga seus amigos para a Golden Service e ganhe R$50 de desconto na sua mensalidade do rastreamento</p>
+                                
                                 <div class="btn-block">
                                     <a href="https://wa.me/5585985214611" target="_blank" class="banner-btn">Indique agora.</a>
                                 </div><!-- /.btn-block -->
