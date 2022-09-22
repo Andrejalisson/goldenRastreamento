@@ -598,7 +598,7 @@ a:visited {
   background-position: center center;
   background-size: cover;
 }
-.banner-style-one .slide.slide-two, .banner-style-one .slide.slide-three {
+.banner-style-one .slide.slide-two, .banner-style-one .slide.slide-three .slide.slide-four {
   padding: 230px 0;
 }
 .banner-style-one .owl-nav {
@@ -620,7 +620,7 @@ a:visited {
   opacity: 0;
   -webkit-transform: translateY(-100px);
           transform: translateY(-100px);
-  transition: all 1.5s ease;
+  transition: all 2.5s ease;
 }
 .banner-style-one .banner-title strong {
   font-weight: 700;

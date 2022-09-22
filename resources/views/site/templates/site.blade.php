@@ -123,11 +123,21 @@
                         </div><!-- /.row -->
                     </div><!-- /.container -->
                 </div><!-- /.slide -->
+                <div class="slide slide-four" style="background-image: url(images/slider/slider-1-4.jpg);">
+                    <div class="container">
+                        <div class="row justify-content-end">
+                            <!-- <div class="col-lg-6">
+                                <h3 class="banner-title">Keep <strong>Safe & <br> Happy</strong> Your Mind</h3>
+                                <p>Lorem ipsum dolor sit amet consectetur <br> adipisicing elit sed do eiusmod </p>
+                                <div class="btn-block">
+                                    <a href="#" class="banner-btn">Get Appointment</a>
+                                </div>
+                            </div> -->
+                        </div><!-- /.row -->
+                    </div><!-- /.container -->
+                </div><!-- /.slide -->
             </section><!-- /.banner-style-one -->
-            <div class="carousel-btn-block banner-carousel-btn">
-                <span class="carousel-btn left-btn"><i class="cameron-icon-left-arrow"></i></span>
-                <span class="carousel-btn right-btn"><i class="cameron-icon-right-arrow"></i></span>
-            </div><!-- /.carousel-btn-block banner-carousel-btn -->
+            
         </div><!-- /.main-banner-wrapper -->
         <section class="offer-style-one">
             <div class="container">
