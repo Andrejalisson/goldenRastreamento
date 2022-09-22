@@ -72,9 +72,9 @@
                     </div><!-- /.navbar-collapse -->
                     <div class="right-side-box">
                         <div class="social">
-                            <a href="#" target="_blank"><i class="fa fa-facebook-f"></i></a>
+                            <a href="https://pt-br.facebook.com/GrupoGoldenService/" target="_blank"><i class="fa fa-facebook-f"></i></a>
                             <a href="https://www.instagram.com/golden_service/" target="_blank"><i class="fa fa-instagram"></i></a>
-                            <a href="#" target="_blank"><i class="fa fa-youtube"></i></a>
+                            <a href="https://youtube.com/channel/UCFJ-1FYY252OQTUdqcHOvew" target="_blank"><i class="fa fa-youtube"></i></a>
                             
                         </div><!-- /.social -->
                     </div><!-- /.right-side-box -->
@@ -88,8 +88,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-12 text-center">
-                                <h3 class="banner-title">Keep <strong>Safe & Happy</strong> Your Mind</h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod </p>
+                                <h3 class="banner-title">Keep <strong>Safe & <br> Happy</strong> Your Mind</h3>
+                                <p>Lorem ipsum dolor sit amet consectetur <br> adipisicing elit sed do eiusmod </p>
                                 <div class="btn-block">
                                     <a href="#" class="banner-btn">Get Appointment</a>
                                 </div><!-- /.btn-block -->
@@ -101,11 +101,12 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h3 class="banner-title">Keep <strong>Safe & <br> Happy</strong> Your Mind</h3>
-                                <p>Lorem ipsum dolor sit amet consectetur <br> adipisicing elit sed do eiusmod </p>
+                                <h3 class="banner-title">Sua indicação <strong>Vale desconto!</strong></h3>
+                                <p>Traga seus amigos para a Golden Service e ganhe R$50 de desconto na sua mensalidade do rastreamento</p>
                                 <div class="btn-block">
-                                    <a href="#" class="banner-btn">Get Appointment</a>
+                                    <a href="https://wa.me/5585985214611" target="_blank" class="banner-btn">Indique agora.</a>
                                 </div><!-- /.btn-block -->
+                                
                             </div><!-- /.col-lg-6 -->
                         </div><!-- /.row -->
                     </div><!-- /.container -->
