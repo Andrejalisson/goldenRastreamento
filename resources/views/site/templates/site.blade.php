@@ -26,6 +26,7 @@
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="/plugins/fontawesome/css/all.css">
 </head>
 
 <body>
@@ -169,7 +170,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1000ms">
                             <div class="icon-block">
-                                <i class="fa fa-cogs" aria-hidden="true"></i>
+                                <i class="fa-duotone fa-truck-tow"></i>
                             </div><!-- /.icon-block -->
                             <h3><a href="#">Assistência<br>Veicular 24h</a></h3>
                             <p>Por todo o Brasil e com funcionamento 24 horas por dia, você pode contar com soluções para imprevistos com seu veículo, como: Reboque, Chaveiro, Mecânico, Troca de Pneu Furado e muito mais! Além disso, conte com uma central 0800 de atendimento 24h/7dias.</p>
@@ -179,7 +180,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1500ms">
                             <div class="icon-block">
-                                <i class="fa fa-battery-full" aria-hidden="true"></i>
+                                <i class="fa-regular fa-car-battery"></i>
                             </div><!-- /.icon-block -->
                             <h3><a href="#">Bateria<br>Moura</a></h3>
                             <p>Precisando trocar a bateria do seu veículo? Oferecemos a melhor bateria do mercado, e a mais vendida do país! Adquira Bateria Moura  com as melhores condições de pagamento, e se preferir, instalamos em sua residência!</p>
