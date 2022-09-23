@@ -236,7 +236,7 @@
                     <span class="tag-line">Golden Service</span><!-- /.tag-line -->
                     <h2>Sua Vida Mais Segura</h2>
                 </div><!-- /.title-block -->
-                <p>com a Golden Service você vive com mais tranquilidade <br>e a certeza de que está protegido</p>
+                <p>Com a Golden Service você vive com mais tranquilidade <br>e a certeza de que está protegido</p>
                 <a href="https://wa.me/5585985214611" target="_blank" class="cta-btn">Solicite um orçamento</a>
             </div><!-- /.container -->
         </section><!-- /.cta-style-one -->
@@ -244,7 +244,7 @@
             <div class="container">
                 <div class="upper-block">
                     <div class="title-block">
-                        <span class="tag-line">Services</span><!-- /.tag-line -->
+                        <span class="tag-line">Serviços</span><!-- /.tag-line -->
                         <h2>Service We Provide</h2>
                     </div><!-- /.title-block -->
                     <div class="carousel-btn-block service-carousel-btn">
@@ -262,9 +262,9 @@
                                 </div><!-- /.overlay-block -->
                             </div><!-- /.image-block -->
                             <div class="text-block">
-                                <h3><a href="services.html">Car Locksmith</a></h3>
-                                <p>Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est.</p>
-                                <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
+                                <h3><a href="services.html">Rastreamento Veicular</a></h3>
+                                <p>Com nossa tecnologia de rastreamento para veículos, você pode saber a localização, bloquear/desbloquear, e contar com alertas antifurto, que podem ser ativados no app baixado no seu celular.   Receba uma notificação quando seu veículo tiver a ignição ligada ou quando ultrapassar uma distância de 100 m. Em caso de roubo ou furto, o rastreamento facilita a localização e a recuperação. Garantimos a você menos preocupação e mais segurança com seu bem.</p>
+                                <a href="#" class="more-btn">Ver mais.</a><!-- /.more-btn -->
                             </div><!-- /.text-block -->
                         </div><!-- /.single-service-one -->
                     </div><!-- /.col-lg-4 -->
@@ -277,9 +277,9 @@
                                 </div><!-- /.overlay-block -->
                             </div><!-- /.image-block -->
                             <div class="text-block">
-                                <h3><a href="services.html">Electronic Security</a></h3>
-                                <p>Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est.</p>
-                                <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
+                                <h3><a href="services.html">Seguro</a></h3>
+                                <p>Para muito mais segurança e qualidade de vida, oferecemos seguro autorizado pela SUSEP para seu veículo e para tudo que é importante para você! Temos parceria com mais de 30 seguradoras, que permite encontrarmos  um seguro que atenda as suas necessidades e ao seu bolso.</p>
+                                <a href="#" class="more-btn">Ver mais.</a><!-- /.more-btn -->
                             </div><!-- /.text-block -->
                         </div><!-- /.single-service-one -->
                     </div><!-- /.col-lg-4 -->
@@ -292,9 +292,9 @@
                                 </div><!-- /.overlay-block -->
                             </div><!-- /.image-block -->
                             <div class="text-block">
-                                <h3><a href="services.html">Residential Locksmith</a></h3>
-                                <p>Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est.</p>
-                                <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
+                                <h3><a href="services.html">Assistência Veicular 24h</a></h3>
+                                <p>Por todo o Brasil e com funcionamento 24 horas por dia, você pode contar com soluções para imprevistos com seu veículo, como: Reboque, Chaveiro, Mecânico, Troca de Pneu Furado e muito mais! Além disso, conte com uma central 0800 de atendimento 24h/7dias.</p>
+                                <a href="#" class="more-btn">Ver mais.</a><!-- /.more-btn -->
                             </div><!-- /.text-block -->
                         </div><!-- /.single-service-one -->
                     </div><!-- /.col-lg-4 -->
@@ -307,39 +307,9 @@
                                 </div><!-- /.overlay-block -->
                             </div><!-- /.image-block -->
                             <div class="text-block">
-                                <h3><a href="services.html">Car Locksmith</a></h3>
-                                <p>Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est.</p>
-                                <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
-                            </div><!-- /.text-block -->
-                        </div><!-- /.single-service-one -->
-                    </div><!-- /.col-lg-4 -->
-                    <div class="item">
-                        <div class="single-service-one">
-                            <div class="image-block">
-                                <img src="images/services/service-1-2.jpg" alt="Awesome Image" />
-                                <div class="overlay-block">
-                                    <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                </div><!-- /.overlay-block -->
-                            </div><!-- /.image-block -->
-                            <div class="text-block">
-                                <h3><a href="services.html">Electronic Security</a></h3>
-                                <p>Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est.</p>
-                                <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
-                            </div><!-- /.text-block -->
-                        </div><!-- /.single-service-one -->
-                    </div><!-- /.col-lg-4 -->
-                    <div class="item">
-                        <div class="single-service-one">
-                            <div class="image-block">
-                                <img src="images/services/service-1-3.jpg" alt="Awesome Image" />
-                                <div class="overlay-block">
-                                    <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                </div><!-- /.overlay-block -->
-                            </div><!-- /.image-block -->
-                            <div class="text-block">
-                                <h3><a href="services.html">Residential Locksmith</a></h3>
-                                <p>Excepteur sint occaecat cupidatat non proi dent, sunt in culpa qui officia deserunt mollit anim id est.</p>
-                                <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
+                                <h3><a href="services.html">Bateria Moura</a></h3>
+                                <p>Precisando trocar a bateria do seu veículo? Oferecemos a melhor bateria do mercado, e a mais vendida do país! Adquira Bateria Moura  com as melhores condições de pagamento, e se preferir, instalamos em sua residência!</p>
+                                <a href="#" class="more-btn">Ver mais.</a><!-- /.more-btn -->
                             </div><!-- /.text-block -->
                         </div><!-- /.single-service-one -->
                     </div><!-- /.col-lg-4 -->
