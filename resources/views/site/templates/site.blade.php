@@ -558,10 +558,9 @@
                                 <p>Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore
                                     dolore magna aliqua enim.</p>
                                 <div class="social-block">
-                                    <a href="#"><i class="fa fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                    <a href="#"><i class="fa fa-vimeo"></i></a>
-                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                <a href="https://pt-br.facebook.com/GrupoGoldenService/" target="_blank"><i class="fa fa-facebook-f"></i></a>
+                            <a href="https://www.instagram.com/golden_service/" target="_blank"><i class="fa fa-instagram"></i></a>
+                            <a href="https://youtube.com/channel/UCFJ-1FYY252OQTUdqcHOvew" target="_blank"><i class="fa fa-youtube"></i></a>
                                 </div><!-- /.social-block -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-lg-3 -->
@@ -623,13 +622,11 @@
             </div><!-- /.main-footer -->
             <div class="bottom-footer text-center">
                 <div class="container">
-                    <p><a href="#">Cameron</a> &copy; 2019 All Right Reserved</p>
+                    <p>Golden Service &copy; {{date('Y')}} Todos direitos reservados.</p>
                 </div><!-- /.container -->
             </div><!-- /.bottom-footer -->
         </footer><!-- /.site-footer -->
     </div><!-- /.page-wrapper -->
-
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="fa fa-angle-up"></i></a>
     <!-- /.scroll-to-top -->
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
