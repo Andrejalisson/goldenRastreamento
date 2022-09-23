@@ -131,9 +131,6 @@
                         <div class="single-service-one">
                             <div class="image-block">
                                 <img src="images/services/service-1-1.jpg" alt="Awesome Image" />
-                                <div class="overlay-block">
-                                    <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                </div><!-- /.overlay-block -->
                             </div><!-- /.image-block -->
                             <div class="text-block">
                                 <h3><a href="services.html">Rastreamento Veicular</a></h3>
@@ -146,9 +143,6 @@
                         <div class="single-service-one">
                             <div class="image-block">
                                 <img src="images/services/service-1-2.jpg" alt="Awesome Image" />
-                                <div class="overlay-block">
-                                    <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                </div><!-- /.overlay-block -->
                             </div><!-- /.image-block -->
                             <div class="text-block">
                                 <h3><a href="services.html">Seguro</a></h3>
@@ -161,9 +155,6 @@
                         <div class="single-service-one">
                             <div class="image-block">
                                 <img src="images/services/service-1-3.jpg" alt="Awesome Image" />
-                                <div class="overlay-block">
-                                    <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                </div><!-- /.overlay-block -->
                             </div><!-- /.image-block -->
                             <div class="text-block">
                                 <h3><a href="services.html">Assistência Veicular 24h</a></h3>
@@ -175,10 +166,7 @@
                     <div class="item">
                         <div class="single-service-one">
                             <div class="image-block">
-                                <img src="images/services/service-1-1.jpg" alt="Awesome Image" />
-                                <div class="overlay-block">
-                                    <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                </div><!-- /.overlay-block -->
+                                <img src="images/services/service-1-4.jpg" alt="Awesome Image" />
                             </div><!-- /.image-block -->
                             <div class="text-block">
                                 <h3><a href="services.html">Bateria Moura</a></h3>
