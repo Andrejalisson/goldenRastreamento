@@ -400,63 +400,12 @@
                 </div><!-- /.fun-fact-block-wrapper -->
             </div><!-- /.container -->
         </section><!-- /.fun-fact-style-one -->
-        <section class="featured-style-one">
-            <div class="container">
-                <div class="row no-gutters wow fadeInUp" data-wow-duration="1300ms">
-                    <div class="col-lg-6 d-flex block-wrapper">
-                        <div class="content-block my-auto">
-                            <div class="title-block">
-                                <span class="tag-line">Love</span><!-- /.tag-line -->
-                                <h2>Why Love People?</h2>
-                            </div><!-- /.title-block -->
-                            <div class="signle-featured-one">
-                                <div class="icon-block">
-                                    <div class="inner-block">
-                                        <i class="cameron-icon-user"></i><!-- /.cameron-icon-star -->
-                                    </div><!-- /.inner-block -->
-                                </div><!-- /.icon-block -->
-                                <div class="text-block">
-                                    <h3>Best Professional</h3>
-                                    <p>Enim ad minim veniam nostrud exer <br> citation ullamco.</p>
-                                </div><!-- /.text-block -->
-                            </div><!-- /.signle-featured-one -->
-                            <div class="signle-featured-one">
-                                <div class="icon-block">
-                                    <div class="inner-block">
-                                        <i class="cameron-icon-star"></i><!-- /.cameron-icon-star -->
-                                    </div><!-- /.inner-block -->
-                                </div><!-- /.icon-block -->
-                                <div class="text-block">
-                                    <h3>Always Honest</h3>
-                                    <p>Enim ad minim veniam nostrud exer <br> citation ullamco.</p>
-                                </div><!-- /.text-block -->
-                            </div><!-- /.signle-featured-one -->
-                            <div class="signle-featured-one">
-                                <div class="icon-block">
-                                    <div class="inner-block">
-                                        <i class="cameron-icon-support"></i><!-- /.cameron-icon-star -->
-                                    </div><!-- /.inner-block -->
-                                </div><!-- /.icon-block -->
-                                <div class="text-block">
-                                    <h3>24/7 Hours Support</h3>
-                                    <p>Enim ad minim veniam nostrud exer <br> citation ullamco.</p>
-                                </div><!-- /.text-block -->
-                            </div><!-- /.signle-featured-one -->
-                        </div><!-- /.content-block -->
-                    </div><!-- /.col-lg-6 -->
-                    <div class="col-lg-6">
-                        <div class="image-block">
-                            <img src="images/resources/featured-1-1.jpg" alt="awesome image">
-                        </div><!-- /.image-block -->
-                    </div><!-- /.col-lg-6 -->
-                </div><!-- /.row no-gutters -->
-            </div><!-- /.container -->
-        </section><!-- /.featured-style-one -->
+        
         <section class="testimonials-style-one">
             <div class="container">
                 <div class="title-block text-center">
-                    <span class="tag-line">Testimonials</span><!-- /.tag-line -->
-                    <h2>What Client Say</h2>
+                    <span class="tag-line">Depoimentos</span><!-- /.tag-line -->
+                    <h2>O que nossos clientes falam.</h2>
                 </div><!-- /.title-block -->
                 <div class="owl-carousel owl-theme testi-carousel-one">
                     <div class="item">
@@ -464,12 +413,8 @@
                             <div class="image-block">
                                 <img src="images/resources/testi1-1.jpg" alt="awesome image">
                             </div><!-- /.image-block -->
-                            <p>Lorem ipsum dolor sit amet constur adipisicing elit sed do eiusmtempor incid et dolore magna
-                                aliqu enim minim veniam quis nostrud exercittion ullamco laboris nisi ut aliquip excepteur
-                                sint
-                                occaecat cuidatat non proident sunt in culpa</p>
-                            <h3>Walter Doyle</h3>
-                            <p class="designation">Happy Client</p><!-- /.designation -->
+                            <p>Sou Cilene Novais e eu sou cliente da Golden Service. Aproveite a oportunidade para colocar seu rastreamento! Eu acabei de colocar na minha moto, mas eu já tinha no meu carro e tem um excelente atendimento, além das pessoas que te recebem bem aqui, eu não tenho do que reclamar, super indico a Golden Service!</p>
+                            <h3>Cilene Novais</h3>
                         </div><!-- /.single-testimonials-one -->
                     </div><!-- /.item -->
                     <div class="item">
@@ -477,25 +422,17 @@
                             <div class="image-block">
                                 <img src="images/resources/testi1-2.jpg" alt="awesome image">
                             </div><!-- /.image-block -->
-                            <p>Lorem ipsum dolor sit amet constur adipisicing elit sed do eiusmtempor incid et dolore magna
-                                aliqu enim minim veniam quis nostrud exercittion ullamco laboris nisi ut aliquip excepteur
-                                sint
-                                occaecat cuidatat non proident sunt in culpa</p>
-                            <h3>Loretta Bailey</h3>
-                            <p class="designation">Happy Client</p><!-- /.designation -->
+                            <p>Desde 2019 eu estou aqui com a Golden, estou aqui pela excelência do atendimento e gosto bastante! Eu já indiquei várias pessoas! Gosto da Golden porquê me sinto bem acolhido pelos profissionais e pelo atendimento no momento que a gente precisa.</p>
+                            <h3>Danilo de Almeida </h3>
                         </div><!-- /.single-testimonials-one -->
                     </div><!-- /.item -->
                     <div class="item">
                         <div class="single-testimonials-one">
                             <div class="image-block">
-                                <img src="images/resources/testi1-1.jpg" alt="awesome image">
+                                <img src="images/resources/testi1-3.jpg" alt="awesome image">
                             </div><!-- /.image-block -->
-                            <p>Lorem ipsum dolor sit amet constur adipisicing elit sed do eiusmtempor incid et dolore magna
-                                aliqu enim minim veniam quis nostrud exercittion ullamco laboris nisi ut aliquip excepteur
-                                sint
-                                occaecat cuidatat non proident sunt in culpa</p>
-                            <h3>Walter Doyle</h3>
-                            <p class="designation">Happy Client</p><!-- /.designation -->
+                            <p>Eu me sinto mais segura, maravilhada, e só quero agradecer porquê é um serviço de qualidade! Eu já tenho 1 ano e eu desejo esse tipo de serviço para todo mundo que venha ter condições de ter! É muito seguro, muito bom, a gente fica mais despreocupada! Tem qualidade! Eu nunca tive nenhum tipo de problema. Sempre que alguém está no carro, eu sei onde e como está! É maravilhoso! Tem um atendimento excelente! A nota que dou para essa empresaé 10! Muito obrigada gente! Que vocês continuem com essa qualidade de serviço e esse atendimento maravilhoso!</p>
+                            <h3>Adélia Maria</h3>
                         </div><!-- /.single-testimonials-one -->
                     </div><!-- /.item -->
                 </div><!-- /.owl-carousel owl-theme testi-carousel-one -->
