@@ -38,7 +38,7 @@
                     <div class="left-info">
                         <p><i class="cameron-icon-email"></i><a href="mailto:contato@grupogoldenservice.com.br">contato@grupogoldenservice.com.br</a></p>
                     </div><!-- /.left-info -->
-                    <div class="right-info">
+                    <div class="right-info" style="margin-top: 12px;">
                         <ul class="info-block">
                             <li><i class="cameron-icon-support"></i><a href="tel:+558530650917">(85) 3065-0917</a></li>
                         </ul>
@@ -405,7 +405,7 @@
             <div class="container">
                 <div class="title-block text-center">
                     <span class="tag-line">Depoimentos</span><!-- /.tag-line -->
-                    <h2>O que nossos clientes falam.</h2>
+                    <h2>Motivo de escolher a Golden Service.</h2>
                 </div><!-- /.title-block -->
                 <div class="owl-carousel owl-theme testi-carousel-one">
                     <div class="item">
@@ -438,37 +438,7 @@
                 </div><!-- /.owl-carousel owl-theme testi-carousel-one -->
             </div><!-- /.container -->
         </section><!-- /.testimonials-style-one -->
-        <section class="working-process-one">
-            <div class="container">
-                <div class="title-block">
-                    <span class="tag-line">Proccess</span><!-- /.tag-line -->
-                    <h2>Working Proccess</h2>
-                </div><!-- /.title-block -->
-                <div class="working-process-wrap">
-                    <div class="single-working-process-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="0ms">
-                        <div class="count-block">
-                            01
-                        </div><!-- /.count-block -->
-                        <h3>You Order</h3>
-                        <p>Retro tattooed tousled, disrupt portland <br> synth slow-carb brooklyn.</p>
-                    </div><!-- /.single-working-process-one -->
-                    <div class="single-working-process-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="500ms">
-                        <div class="count-block">
-                            02
-                        </div><!-- /.count-block -->
-                        <h3>Installation</h3>
-                        <p>Retro tattooed tousled, disrupt portland <br> synth slow-carb brooklyn.</p>
-                    </div><!-- /.single-working-process-one -->
-                    <div class="single-working-process-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1000ms">
-                        <div class="count-block">
-                            03
-                        </div><!-- /.count-block -->
-                        <h3>Enjoy Your Safety</h3>
-                        <p>Retro tattooed tousled, disrupt portland <br> synth slow-carb brooklyn.<p>
-                    </div><!-- /.single-working-process-one -->
-                </div><!-- /.working-process-wrap -->
-            </div><!-- /.container -->
-        </section><!-- /.working-process-one -->
+        
         <section class="blog-style-one">
             <div class="container">
                 <div class="title-block text-center">
