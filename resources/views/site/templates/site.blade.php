@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -16,10 +16,11 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="/plugins/fontawesome/css/all.css">
+    @yield('css')
 </head>
 
 <body>
-    <div class="preloader"></div><!-- /.preloader -->
+    <div class="preloader"></div>
 
     <div class="page-wrapper">
         <header class="main-header header-style-one">
@@ -27,542 +28,86 @@
                 <div class="container">
                     <div class="left-info">
                         <p><i class="cameron-icon-email"></i><a href="mailto:contato@grupogoldenservice.com.br">contato@grupogoldenservice.com.br</a></p>
-                    </div><!-- /.left-info -->
+                    </div>
                     <div class="right-info" style="margin-top: 12px;">
                         <ul class="info-block">
                             <li><i class="cameron-icon-support"></i><a href="tel:+558530650917">(85) 3065-0917</a></li>
                         </ul>
-                    </div><!-- /.right-info -->
-                </div><!-- /.container -->
-            </div><!-- /.top-header -->
+                    </div>
+                </div>
+            </div>
             <nav class="navbar navbar-expand-lg navbar-light header-navigation stricky">
                 <div class="container clearfix">
-                    <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="logo-box clearfix">
-                        <a class="navbar-brand" href="index.html">
+                        <a class="navbar-brand" href="/">
                             <img src="images/resources/logo-1-1.png" class="main-logo" alt="Golden Service"/>
                             <img src="images/resources/logo-1-2.png" class="stricky-logo" alt="Golden Service"/>
                         </a>
-
-                        <button class="menu-toggler" data-target=".header-style-one .main-navigation">
+                        <button class="menu-toggler" data-target=".header-style-two .main-navigation">
                             <span class="fa fa-bars"></span>
                         </button>
-                    </div><!-- /.logo-box -->
+                    </div>
 
-                    <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="main-navigation">
                         <ul class=" navigation-box">
-                            <li><a href="/">Home</a></li>
+                            <li class="current"><a href="/">Home</a></li>
                             <li><a href="#">Sobre</a></li>
                             <li><a href="#">Rastreamento</a></li>
                             <li><a href="#">Seguro</a></li>
                             <li><a href="#">Serviços</a></li>
                             <li><a href="#">Área do Cliente</a></li>
                         </ul>
-                    </div><!-- /.navbar-collapse -->
+                    </div>
                     <div class="right-side-box">
                         <div class="social">
                             <a href="https://pt-br.facebook.com/GrupoGoldenService/" target="_blank"><i class="fa fa-facebook-f"></i></a>
                             <a href="https://www.instagram.com/golden_service/" target="_blank"><i class="fa fa-instagram"></i></a>
-                            <a href="https://youtube.com/channel/UCFJ-1FYY252OQTUdqcHOvew" target="_blank"><i class="fa fa-youtube"></i></a>
-                            
-                        </div><!-- /.social -->
-                    </div><!-- /.right-side-box -->
+                            <a href="https://youtube.com/channel/UCFJ-1FYY252OQTUdqcHOvew" target="_blank"><i class="fa fa-youtube"></i></a>   
+                        </div>
+                    </div>
                 </div>
-                <!-- /.container -->
             </nav>
-        </header><!-- /.main-header header-style-one -->
-        <div class="main-banner-wrapper">
-            <section class="banner-style-one owl-theme owl-carousel no-dots">
-                <div class="slide slide-one" style="background-image: url(images/slider/slider-1-1.jpg);">
-                    <div class="container">
-                        <div class="row">
-                            <!-- <div class="col-lg-12 text-center">
-                                <h3 class="banner-title">Keep <strong>Safe & <br> Happy</strong> Your Mind</h3>
-                                <p>Lorem ipsum dolor sit amet consectetur <br> adipisicing elit sed do eiusmod </p>
-                                <div class="btn-block">
-                                    <a href="#" class="banner-btn">Get Appointment</a>
-                                </div>
-                            </div> -->
-                        </div><!-- /.row -->
-                    </div><!-- /.container -->
-                </div><!-- /.slide -->
-                <div class="slide slide-two" style="background-image: url(images/slider/slider-1-2.jpg);">
-                    <div class="container">
-                        <div class="row">
-                            <!-- <div class="col-lg-6">
-                                
-                                <div class="btn-block">
-                                    <a href="https://wa.me/5585985214611" target="_blank" class="banner-btn">Indique agora.</a>
-                                </div>
-                                
-                            </div> -->
-                        </div><!-- /.row -->
-                    </div><!-- /.container -->
-                </div><!-- /.slide -->
-                <div class="slide slide-three" style="background-image: url(images/slider/slider-1-3.jpg);">
-                    <div class="container">
-                        <div class="row justify-content-end">
-                            <!-- <div class="col-lg-6">
-                                <h3 class="banner-title">Keep <strong>Safe & <br> Happy</strong> Your Mind</h3>
-                                <p>Lorem ipsum dolor sit amet consectetur <br> adipisicing elit sed do eiusmod </p>
-                                <div class="btn-block">
-                                    <a href="#" class="banner-btn">Get Appointment</a>
-                                </div>
-                            </div> -->
-                        </div><!-- /.row -->
-                    </div><!-- /.container -->
-                </div><!-- /.slide -->
-                <div class="slide slide-four" style="background-image: url(images/slider/slider-1-4.jpg);">
-                    <div class="container">
-                        <div class="row justify-content-end">
-                            <!-- <div class="col-lg-6">
-                                <h3 class="banner-title">Keep <strong>Safe & <br> Happy</strong> Your Mind</h3>
-                                <p>Lorem ipsum dolor sit amet consectetur <br> adipisicing elit sed do eiusmod </p>
-                                <div class="btn-block">
-                                    <a href="#" class="banner-btn">Get Appointment</a>
-                                </div>
-                            </div> -->
-                        </div><!-- /.row -->
-                    </div><!-- /.container -->
-                </div><!-- /.slide -->
-            </section><!-- /.banner-style-one -->
-            
-        </div><!-- /.main-banner-wrapper -->
-        <section class="offer-style-one">
-            <div class="container">
-                <div class="title-block">
-                    <span class="tag-line">POR QUE A GOLDEN SERVICE?</span><!-- /.tag-line -->
-                    <h2>MOTIVOS PARA  ESCOLHER A GENTE</h2>
-                </div><!-- /.title-block -->
-                <div class="row">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="0ms">
-                            <div class="icon-block">
-                                <i class="fa fa-map-marker" aria-hidden="true"></i>
-                            </div><!-- /.icon-block -->
-                            <h3><a href="#">Atendimento<br>Diferenciado</a></h3>
-                            <p>buscamos sempre adaptar nosso atendimento de acordo com as necessidades dos nossos clientes, com objetivo de entregar soluções ainda mais adequadas e pontuais.</p>
-                        </div><!-- /.single-offer-style-one -->
-                    </div><!-- /.col-lg-3 -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="500ms">
-                            <div class="icon-block">
-                                <i class="fa fa-handshake-o" aria-hidden="true"></i>
-                            </div><!-- /.icon-block -->
-                            <h3><a href="#">Soluções<br>Inteligentes</a></h3>
-                            <p>sempre pensando em tornar sua vida mais tranquila, oferecemos rastreamento, assistência veicular 24h, seguro veicular, e a  bateria Moura com as melhores condições de compra!</p>
-                        </div><!-- /.single-offer-style-one -->
-                    </div><!-- /.col-lg-3 -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1000ms">
-                            <div class="icon-block">
-                                <i class="fa-duotone fa-truck-tow"></i>
-                            </div><!-- /.icon-block -->
-                            <h3><a href="#">Empresa de<br>Propósito</a></h3>
-                            <p>Há mais de 11 anos nosso propósito é ajudar você a ter uma vida com mais segurança e tranquilidade.</p>
-                        </div><!-- /.single-offer-style-one -->
-                    </div><!-- /.col-lg-3 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.offer-style-one -->
-        <section class="about-style-one">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 d-flex">
-                        <div class="content-block my-auto">
-                            <div class="title-block">
-                                <span class="tag-line">Sobre a Golden Service</span><!-- /.tag-line -->
-                                <h2>Desde 2008</h2>
-                            </div><!-- /.title-block -->
-                            <p>Com mais de 11 anos de existência, a Golden Service vem garantindo segurança, com confiabilidade para os seus clientes. Com foco na qualidade do atendimento, contribuímos para o aumento da segurança daquilo que é importante para você.</p>
-                            
-                            <a href="#" class="more-btn">Entrar em contato</a>
-                        </div><!-- /.content-block -->
-                    </div><!-- /.col-lg-6 -->
-                    <div class="col-lg-6">
-                        <div class="image-block">
-                            <img src="images/resources/story-1-1.png" alt="Awesome Image" />
-                        </div><!-- /.image-block -->
-                    </div><!-- /.col-lg-6 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.about-style-one -->
-        <section class="mission-style-one wow fadeInUp" data-wow-duration="1300ms">
-            <div class="container">
-                <div class="inner-container">
-                    <div class="single-mission-one">
-                        <div class="count-block">
-                            01
-                        </div><!-- /.count-block -->
-                        <h3>Missão</h3>
-                        <p>Melhorar a qualidade de vida dos nossos <br>clientes com soluções customizadas em segurança.</p>
-                    </div><!-- /.single-mission-one -->
-                    <div class="single-mission-one">
-                        <div class="count-block">
-                            02
-                        </div><!-- /.count-block -->
-                        <h3>Visão</h3>
-                        <p>Crescer de forma responsável, buscando a <br> melhoria continua atendendo diversos setores do mercado.</p>
-                    </div><!-- /.single-mission-one -->
-                    <div class="single-mission-one">
-                        <div class="count-block">
-                            03
-                        </div><!-- /.count-block -->
-                        <h3>Valores</h3>
-                        <p><strong>Sinceridade e Confiança</strong> <br> Somos transparentes, trabalhamos com a verdade; <br>
-                        <strong>Meritocracia e autorresponsabilidade</strong> <br> Você é os seus resultados <br>
-                        <strong>Gratidão e Felicidade</strong> <br> Ser grato por tudo e felizes na jornada, sempre. <br>
-                        <strong>Garra e Consistência</strong> <br> O que precisa ser feito, será feito. <br>
-                        </p>
-                    </div><!-- /.single-mission-one -->
-                </div><!-- /.inner-container -->
-            </div><!-- /.container -->
-        </section><!-- /.mission-style-one -->
-        <section class="cta-style-one text-center">
-            <div class="container">
-                <div class="title-block">
-                    <span class="tag-line">Golden Service</span><!-- /.tag-line -->
-                    <h2>Sua Vida Mais Segura</h2>
-                </div><!-- /.title-block -->
-                <p>Com a Golden Service você vive com mais tranquilidade <br>e a certeza de que está protegido</p>
-                <a href="https://wa.me/5585985214611" target="_blank" class="cta-btn">Solicite um orçamento</a>
-            </div><!-- /.container -->
-        </section><!-- /.cta-style-one -->
-        <section class="service-style-one">
-            <div class="container">
-                <div class="upper-block">
-                    <div class="title-block">
-                        <span class="tag-line">Serviços</span><!-- /.tag-line -->
-                        <h2>Service We Provide</h2>
-                    </div><!-- /.title-block -->
-                    <div class="carousel-btn-block service-carousel-btn">
-                        <span class="carousel-btn left-btn"><i class="cameron-icon-left-arrow"></i></span>
-                        <span class="carousel-btn right-btn"><i class="cameron-icon-right-arrow"></i></span>
-                    </div><!-- /.carousel-btn-block service-carousel-btn -->
-                </div><!-- /.upper-block -->
-                <div class="services-carousel-one">
-                    <div class="item">
-                        <div class="single-service-one">
-                            <div class="image-block">
-                                <img src="images/services/service-1-1.jpg" alt="Awesome Image" />
-                                <div class="overlay-block">
-                                    <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                </div><!-- /.overlay-block -->
-                            </div><!-- /.image-block -->
-                            <div class="text-block">
-                                <h3><a href="services.html">Rastreamento Veicular</a></h3>
-                                <p>Com nossa tecnologia de rastreamento para veículos, você pode saber a localização, bloquear/desbloquear, e contar com alertas antifurto, que podem ser ativados no app baixado no seu celular.   Receba uma notificação quando seu veículo tiver a ignição ligada ou quando ultrapassar uma distância de 100 m. Em caso de roubo ou furto, o rastreamento facilita a localização e a recuperação. Garantimos a você menos preocupação e mais segurança com seu bem.</p>
-                                <a href="#" class="more-btn">Ver mais.</a><!-- /.more-btn -->
-                            </div><!-- /.text-block -->
-                        </div><!-- /.single-service-one -->
-                    </div><!-- /.col-lg-4 -->
-                    <div class="item">
-                        <div class="single-service-one">
-                            <div class="image-block">
-                                <img src="images/services/service-1-2.jpg" alt="Awesome Image" />
-                                <div class="overlay-block">
-                                    <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                </div><!-- /.overlay-block -->
-                            </div><!-- /.image-block -->
-                            <div class="text-block">
-                                <h3><a href="services.html">Seguro</a></h3>
-                                <p>Para muito mais segurança e qualidade de vida, oferecemos seguro autorizado pela SUSEP para seu veículo e para tudo que é importante para você! Temos parceria com mais de 30 seguradoras, que permite encontrarmos  um seguro que atenda as suas necessidades e ao seu bolso.</p>
-                                <a href="#" class="more-btn">Ver mais.</a><!-- /.more-btn -->
-                            </div><!-- /.text-block -->
-                        </div><!-- /.single-service-one -->
-                    </div><!-- /.col-lg-4 -->
-                    <div class="item">
-                        <div class="single-service-one">
-                            <div class="image-block">
-                                <img src="images/services/service-1-3.jpg" alt="Awesome Image" />
-                                <div class="overlay-block">
-                                    <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                </div><!-- /.overlay-block -->
-                            </div><!-- /.image-block -->
-                            <div class="text-block">
-                                <h3><a href="services.html">Assistência Veicular 24h</a></h3>
-                                <p>Por todo o Brasil e com funcionamento 24 horas por dia, você pode contar com soluções para imprevistos com seu veículo, como: Reboque, Chaveiro, Mecânico, Troca de Pneu Furado e muito mais! Além disso, conte com uma central 0800 de atendimento 24h/7dias.</p>
-                                <a href="#" class="more-btn">Ver mais.</a><!-- /.more-btn -->
-                            </div><!-- /.text-block -->
-                        </div><!-- /.single-service-one -->
-                    </div><!-- /.col-lg-4 -->
-                    <div class="item">
-                        <div class="single-service-one">
-                            <div class="image-block">
-                                <img src="images/services/service-1-1.jpg" alt="Awesome Image" />
-                                <div class="overlay-block">
-                                    <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                </div><!-- /.overlay-block -->
-                            </div><!-- /.image-block -->
-                            <div class="text-block">
-                                <h3><a href="services.html">Bateria Moura</a></h3>
-                                <p>Precisando trocar a bateria do seu veículo? Oferecemos a melhor bateria do mercado, e a mais vendida do país! Adquira Bateria Moura  com as melhores condições de pagamento, e se preferir, instalamos em sua residência!</p>
-                                <a href="#" class="more-btn">Ver mais.</a><!-- /.more-btn -->
-                            </div><!-- /.text-block -->
-                        </div><!-- /.single-service-one -->
-                    </div><!-- /.col-lg-4 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.service-style-one -->
-        <section class="fun-fact-style-one">
-            <div class="container">
-                <div class="fun-fact-block-wrapper">
-                    <div class="single-fun-fact-one">
-                        <div class="icon-block">
-                            <i class="cameron-icon-locked"></i>
-                        </div><!-- /.icon-block -->
-                        <div class="text-block">
-                            <h3 class="counter">642</h3>
-                            <p>Lock Installed</p>
-                        </div><!-- /.text-block -->
-                    </div><!-- /.single-fun-fact-one -->
-                    <div class="single-fun-fact-one">
-                        <div class="icon-block">
-                            <i class="cameron-icon-smile"></i>
-                        </div><!-- /.icon-block -->
-                        <div class="text-block">
-                            <h3 class="counter">746</h3>
-                            <p>Happy Customers</p>
-                        </div><!-- /.text-block -->
-                    </div><!-- /.single-fun-fact-one -->
-                    <div class="single-fun-fact-one">
-                        <div class="icon-block">
-                            <i class="cameron-icon-coffee-cup"></i>
-                        </div><!-- /.icon-block -->
-                        <div class="text-block">
-                            <h3 class="counter">3456</h3>
-                            <p>Coffe Cups</p>
-                        </div><!-- /.text-block -->
-                    </div><!-- /.single-fun-fact-one -->
-                    <div class="single-fun-fact-one">
-                        <div class="icon-block">
-                            <i class="cameron-icon-key"></i>
-                        </div><!-- /.icon-block -->
-                        <div class="text-block">
-                            <h3 class="counter">431</h3>
-                            <p>Premises Secured</p>
-                        </div><!-- /.text-block -->
-                    </div><!-- /.single-fun-fact-one -->
-                </div><!-- /.fun-fact-block-wrapper -->
-            </div><!-- /.container -->
-        </section><!-- /.fun-fact-style-one -->
-        
-        <section class="testimonials-style-one">
-            <div class="container">
-                <div class="title-block text-center">
-                    <span class="tag-line">Reconhecimento</span><!-- /.tag-line -->
-                    <h2>O que falam da Golden Service?</h2>
-                </div><!-- /.title-block -->
-                <div class="owl-carousel owl-theme testi-carousel-one">
-                    <div class="item">
-                        <div class="single-testimonials-one">
-                            <div class="image-block">
-                                <img src="images/resources/testi1-1.jpg" alt="awesome image">
-                            </div><!-- /.image-block -->
-                            <p>Sou Cilene Novais e eu sou cliente da Golden Service. Aproveite a oportunidade para colocar seu rastreamento! Eu acabei de colocar na minha moto, mas eu já tinha no meu carro e tem um excelente atendimento, além das pessoas que te recebem bem aqui, eu não tenho do que reclamar, super indico a Golden Service!</p>
-                            <h3>Cilene Novais</h3>
-                        </div><!-- /.single-testimonials-one -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-testimonials-one">
-                            <div class="image-block">
-                                <img src="images/resources/testi1-2.jpg" alt="awesome image">
-                            </div><!-- /.image-block -->
-                            <p>Desde 2019 eu estou aqui com a Golden, estou aqui pela excelência do atendimento e gosto bastante! Eu já indiquei várias pessoas! Gosto da Golden porquê me sinto bem acolhido pelos profissionais e pelo atendimento no momento que a gente precisa.</p>
-                            <h3>Danilo de Almeida </h3>
-                        </div><!-- /.single-testimonials-one -->
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="single-testimonials-one">
-                            <div class="image-block">
-                                <img src="images/resources/testi1-3.jpg" alt="awesome image">
-                            </div><!-- /.image-block -->
-                            <p>Eu me sinto mais segura, maravilhada, e só quero agradecer porquê é um serviço de qualidade! Eu já tenho 1 ano e eu desejo esse tipo de serviço para todo mundo que venha ter condições de ter! É muito seguro, muito bom, a gente fica mais despreocupada! Tem qualidade! Eu nunca tive nenhum tipo de problema. Sempre que alguém está no carro, eu sei onde e como está! É maravilhoso! Tem um atendimento excelente! A nota que dou para essa empresaé 10! Muito obrigada gente! Que vocês continuem com essa qualidade de serviço e esse atendimento maravilhoso!</p>
-                            <h3>Adélia Maria</h3>
-                        </div><!-- /.single-testimonials-one -->
-                    </div><!-- /.item -->
-                </div><!-- /.owl-carousel owl-theme testi-carousel-one -->
-            </div><!-- /.container -->
-        </section><!-- /.testimonials-style-one -->
-        
-        <section class="blog-style-one">
-            <div class="container">
-                <div class="title-block text-center">
-                    <span class="tag-line">News</span><!-- /.tag-line -->
-                    <h2>Latest Articles</h2>
-                </div><!-- /.title-block -->
-                <div class="row high-gutter">
-                    <div class="col-xl-6 col-lg-12">
-                        <div class="single-blog-style-one">
-                            <div class="image-block">
-                                <img src="images/blog/blog-1-1.jpg" alt="awesome image">
-                                <div class="overlay-block">
-                                    <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                </div><!-- /.overlay-block -->
-                            </div><!-- /.image-block -->
-                            <div class="text-block">
-                                <h3><a href="blog-details.html">We Need to Rent a Room For Our Party.</a></h3>
-                                <div class="meta-info">
-                                    <a href="#"><i class="fa fa-user-o"></i> Admin</a>
-                                    <a href="#"><i class="fa fa-calendar-o"></i> 350</a>
-                                    <a href="#"><i class="fa fa-comments-o"></i> 30</a>
-                                </div><!-- /.meta-info -->
-                                <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
-                            </div><!-- /.text-block -->
-                        </div><!-- /.single-blog-style-one -->
-                    </div><!-- /.col-lg-6 -->
-                    <div class="col-xl-6 col-lg-12">
-                        <div class="row high-gutter col1-blog-wrapper">
-                            <div class="col-xl-12 col-lg-12">
-                                <div class="single-blog-style-two clearfix">
-                                    <div class="image-block">
-                                        <img src="images/blog/blog-2-1.jpg" alt="awesome image">
-                                        <div class="overlay-block">
-                                            <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                        </div><!-- /.overlay-block -->
-                                    </div><!-- /.image-block -->
-                                    <div class="text-block">
-                                        <h3><a href="blog-details.html">The Pink Screw ate Clumsily.</a></h3>
-                                        <div class="meta-info">
-                                            <a href="#"><i class="fa fa-user-o"></i> Admin</a>
-                                            <a href="#"><i class="fa fa-calendar-o"></i> 350</a>
-                                            <a href="#"><i class="fa fa-comments-o"></i> 30</a>
-                                        </div><!-- /.meta-info -->
-                                        <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
-                                    </div><!-- /.text-block -->
-                                </div><!-- /.single-blog-style-two -->
-                            </div><!-- /.col-xl-12 -->
-                            <div class="col-xl-12 col-lg-12">
-                                <div class="single-blog-style-two clearfix">
-                                    <div class="image-block">
-                                        <img src="images/blog/blog-2-2.jpg" alt="awesome image">
-                                        <div class="overlay-block">
-                                            <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                        </div><!-- /.overlay-block -->
-                                    </div><!-- /.image-block -->
-                                    <div class="text-block">
-                                        <h3><a href="blog-details.html">The Indigo Dentures Whined Softly.</a></h3>
-                                        <div class="meta-info">
-                                            <a href="#"><i class="fa fa-user-o"></i> Admin</a>
-                                            <a href="#"><i class="fa fa-calendar-o"></i> 350</a>
-                                            <a href="#"><i class="fa fa-comments-o"></i> 30</a>
-                                        </div><!-- /.meta-info -->
-                                        <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
-                                    </div><!-- /.text-block -->
-                                </div><!-- /.single-blog-style-two -->
-                            </div><!-- /.col-xl-12 -->
-                        </div><!-- /.row -->
-                    </div><!-- /.col-lg-6 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.blog-style-one -->
-        <section class="brands-area-one">
-            <div class="container">
-                <div class="brands-carousel-one owl-carousel owl-theme">
-                    <div class="item">
-                        <img src="images/brands/brands-1-1.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-2.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-3.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-4.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-5.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-1.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-2.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-3.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-4.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-5.png" alt="awesome image">
-                    </div><!-- /.item -->
-                </div><!-- /.brands-carousel-one -->
-            </div><!-- /.container -->
-        </section><!-- /.brands-area-one -->
+        </header>
+        @yield('corpo')
         <footer class="site-footer">
             <div class="main-footer">
                 <div class="container">
                     <div class="row no-gutters">
-                        <div class="col-lg-3 col-md-6">
+                        <div class="col-lg-4 col-md-6">
                             <div class="footer-widget about-widget">
                                 <a href="index.html" class="footer-logo">
                                     <img src="images/resources/footer-logo-1-1.png" alt="awesome image">
                                 </a>
-                                <p>Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore
-                                    dolore magna aliqua enim.</p>
+                                <p>Golden Service Tem o Rastreador Ideal para o Seu Veículo. Empresa Especializada no Monitoramento e Rastreamento de Veículos Via Satélite.</p>
                                 <div class="social-block">
-                                <a href="https://pt-br.facebook.com/GrupoGoldenService/" target="_blank"><i class="fa fa-facebook-f"></i></a>
-                            <a href="https://www.instagram.com/golden_service/" target="_blank"><i class="fa fa-instagram"></i></a>
-                            <a href="https://youtube.com/channel/UCFJ-1FYY252OQTUdqcHOvew" target="_blank"><i class="fa fa-youtube"></i></a>
-                                </div><!-- /.social-block -->
-                            </div><!-- /.footer-widget -->
-                        </div><!-- /.col-lg-3 -->
-                        <div class="col-lg-3 col-md-6">
+                                    <a href="https://pt-br.facebook.com/GrupoGoldenService/" target="_blank"><i class="fa fa-facebook-f"></i></a>
+                                    <a href="https://www.instagram.com/golden_service/" target="_blank"><i class="fa fa-instagram"></i></a>
+                                    <a href="https://youtube.com/channel/UCFJ-1FYY252OQTUdqcHOvew" target="_blank"><i class="fa fa-youtube"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
                             <div class="footer-widget links-widget">
                                 <div class="footer-widget-title">
-                                    <h3>Services</h3>
+                                    <h3>SiteMap</h3>
                                 </div><!-- /.footer-widget-title -->
                                 <ul class="links-lists">
-                                    <li><a href="#">Company History</a></li>
-                                    <li><a href="#">About Us </a></li>
-                                    <li><a href="#">Contact Us</a></li>
-                                    <li><a href="#">Services</a></li>
-                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><a href="/">HOME </a></li>
+                                    <li><a href="/Sobre">SOBRE </a></li>
+                                    <li><a href="/Planos">PLANOS </a></li>
+                                    <li><a href="/Assistencia">ASSISTÊNCIA 24H</a></li>
+                                    <li><a href="https://fortechgps.softruck.com/access/login" target="_blank">ÁREA DO CLIENTE</a></li>
+                                    <li><a href="#">ÁREA ADMINISTRATIVA</a></li>
                                 </ul><!-- /.links-lists -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-lg-3 -->
-                        <div class="col-lg-3 col-md-6">
+                        <div class="col-lg-4 col-md-6">
                             <div class="footer-widget works-widget">
                                 <div class="footer-widget-title">
-                                    <h3>Latest Work</h3>
+                                    <h3>Facebook </h3>
                                 </div><!-- /.footer-widget-title -->
-                                <div class="gallery-wrapper clearfix">
-                                    <div class="single-gallery-item">
-                                        <a href="#"><img src="images/resources/footer-work-1-1.png" alt="awesome image"></a>
-                                    </div><!-- /.single-gallery-item -->
-                                    <div class="single-gallery-item">
-                                        <a href="#"><img src="images/resources/footer-work-1-2.png" alt="awesome image"></a>
-                                    </div><!-- /.single-gallery-item -->
-                                    <div class="single-gallery-item">
-                                        <a href="#"><img src="images/resources/footer-work-1-3.png" alt="awesome image"></a>
-                                    </div><!-- /.single-gallery-item -->
-                                    <div class="single-gallery-item">
-                                        <a href="#"><img src="images/resources/footer-work-1-4.png" alt="awesome image"></a>
-                                    </div><!-- /.single-gallery-item -->
-                                    <div class="single-gallery-item">
-                                        <a href="#"><img src="images/resources/footer-work-1-5.png" alt="awesome image"></a>
-                                    </div><!-- /.single-gallery-item -->
-                                    <div class="single-gallery-item">
-                                        <a href="#"><img src="images/resources/footer-work-1-6.png" alt="awesome image"></a>
-                                    </div><!-- /.single-gallery-item -->
-                                </div><!-- /.gallery-wrapper -->
+                                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffortechgps%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=348801248988519" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                             </div><!-- /.footer-widget -->
-                        </div><!-- /.col-lg-3 -->
-                        <div class="col-lg-3 col-md-6">
-                            <div class="footer-widget newsletter-widget">
-                                <div class="footer-widget-title">
-                                    <h3>NewsLetter</h3>
-                                </div><!-- /.footer-widget-title -->
-                                <form action="#" class="newsletter-form">
-                                    <p>Lorem ipsum dolor sit amet consect <br> etur adipisicing.</p>
-                                    <input type="text" placeholder="Enter your email">
-                                    <button type="submit">Subscribe</button>
-                                </form><!-- /.newsletter-form -->
-                            </div><!-- /.footer-widget newsletter-widget -->
                         </div><!-- /.col-lg-3 -->
                     </div><!-- /.row -->
                 </div><!-- /.container -->
@@ -574,7 +119,7 @@
             </div><!-- /.bottom-footer -->
         </footer><!-- /.site-footer -->
     </div><!-- /.page-wrapper -->
-    <!-- /.scroll-to-top -->
+    
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
