@@ -171,7 +171,7 @@
                                 <i class="fa-duotone fa-truck-tow"></i>
                             </div><!-- /.icon-block -->
                             <h3><a href="#">Empresa de<br>Propósito</a></h3>
-                            <p>Por todo o Brasil e com funcionamento 24 horas por dia, você pode contar com soluções para imprevistos com seu veículo, como: Reboque, Chaveiro, Mecânico, Troca de Pneu Furado e muito mais! Além disso, conte com uma central 0800 de atendimento 24h/7dias.</p>
+                            <p>Há mais de 11 anos nosso propósito é ajudar você a ter uma vida com mais segurança e tranquilidade.</p>
                         </div><!-- /.single-offer-style-one -->
                     </div><!-- /.col-lg-3 -->
                 </div><!-- /.row -->
