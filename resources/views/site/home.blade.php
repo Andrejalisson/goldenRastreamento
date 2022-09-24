@@ -186,8 +186,8 @@
                             <i class="cameron-icon-locked"></i>
                         </div><!-- /.icon-block -->
                         <div class="text-block">
-                            <h3 class="counter">642</h3>
-                            <p>Lock Installed</p>
+                            <h3 class="counter">11</h3>
+                            <p>Anos de Experiência</p>
                         </div><!-- /.text-block -->
                     </div><!-- /.single-fun-fact-one -->
                     <div class="single-fun-fact-one">
@@ -195,8 +195,8 @@
                             <i class="cameron-icon-smile"></i>
                         </div><!-- /.icon-block -->
                         <div class="text-block">
-                            <h3 class="counter">746</h3>
-                            <p>Happy Customers</p>
+                            <h3 class="counter">1000</h3>
+                            <p>Clientes atendidos</p>
                         </div><!-- /.text-block -->
                     </div><!-- /.single-fun-fact-one -->
                     <div class="single-fun-fact-one">
@@ -204,19 +204,11 @@
                             <i class="cameron-icon-coffee-cup"></i>
                         </div><!-- /.icon-block -->
                         <div class="text-block">
-                            <h3 class="counter">3456</h3>
-                            <p>Coffe Cups</p>
+                            <h3 class="counter">2500000</h3>
+                            <p>Bens Recuperados</p>
                         </div><!-- /.text-block -->
                     </div><!-- /.single-fun-fact-one -->
-                    <div class="single-fun-fact-one">
-                        <div class="icon-block">
-                            <i class="cameron-icon-key"></i>
-                        </div><!-- /.icon-block -->
-                        <div class="text-block">
-                            <h3 class="counter">431</h3>
-                            <p>Premises Secured</p>
-                        </div><!-- /.text-block -->
-                    </div><!-- /.single-fun-fact-one -->
+                    
                 </div><!-- /.fun-fact-block-wrapper -->
             </div><!-- /.container -->
         </section><!-- /.fun-fact-style-one -->
