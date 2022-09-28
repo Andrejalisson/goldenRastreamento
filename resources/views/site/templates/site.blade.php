@@ -51,18 +51,31 @@
                     <div class="main-navigation">
                         <ul class=" navigation-box">
                             <li class="current"><a href="/">Home</a></li>
-                            <li><a href="#">Sobre</a></li>
-                            <li><a href="#">Rastreamento</a></li>
-                            <li><a href="#">Seguro</a></li>
-                            <li><a href="#">Serviços</a></li>
-                            <li><a href="#">Área do Cliente</a></li>
+                            <li><a href="/Sobre">Sobre</a></li>
+                            <li><a href="#">Serviços</a>
+                                <ul class="sub-menu">
+                                    <li><a href="#">Rastreamento Veicular</a></li>
+                                    <li><a href="#">Seguro</a></li>
+                                    <li><a href="#">Bateria Moura</a></li>
+                                    <li><a href="#">Assistência Veicular</a></li>
+                                </ul><!-- /.sub-menu -->
+                            </li>
+                            <li><a href="#">Blog</a></li>
+                            <li><a href="/Contato">Contato</a></li>
+                            <li><a href="#">Área do Cliente</a>
+                                <ul class="sub-menu">
+                                    <li><a href="#">Rastreamento</a></li>
+                                    <li><a href="#">FAQ</a></li>
+                                    <li><a href="#">Dúvidas Frequentes</a></li>
+                                </ul><!-- /.sub-menu -->
+                            </li>
                         </ul>
                     </div>
                     <div class="right-side-box">
                         <div class="social">
                             <a href="https://pt-br.facebook.com/GrupoGoldenService/" target="_blank"><i class="fa fa-facebook-f"></i></a>
                             <a href="https://www.instagram.com/golden_service/" target="_blank"><i class="fa fa-instagram"></i></a>
-                            <a href="https://youtube.com/channel/UCFJ-1FYY252OQTUdqcHOvew" target="_blank"><i class="fa fa-youtube"></i></a>   
+                            <a href="https://youtube.com/channel/UCFJ-1FYY252OQTUdqcHOvew" target="_blank"><i class="fa fa-youtube"></i></a>
                         </div>
                     </div>
                 </div>
@@ -106,7 +119,6 @@
                                 <div class="footer-widget-title">
                                     <h3>Facebook </h3>
                                 </div><!-- /.footer-widget-title -->
-                                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffortechgps%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=348801248988519" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-lg-3 -->
                     </div><!-- /.row -->
@@ -119,7 +131,7 @@
             </div><!-- /.bottom-footer -->
         </footer><!-- /.site-footer -->
     </div><!-- /.page-wrapper -->
-    
+
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>

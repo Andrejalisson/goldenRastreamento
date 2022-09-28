@@ -196,7 +196,7 @@
                         </div><!-- /.icon-block -->
                         <div class="text-block">
                             <h3 class="counter">1000</h3>
-                            <p>Clientes atendidos</p>
+                            <p>Clientes Atendidos</p>
                         </div><!-- /.text-block -->
                     </div><!-- /.single-fun-fact-one -->
                     <div class="single-fun-fact-one">
@@ -267,13 +267,8 @@
                                 </div><!-- /.overlay-block -->
                             </div><!-- /.image-block -->
                             <div class="text-block">
-                                <h3><a href="blog-details.html">We Need to Rent a Room For Our Party.</a></h3>
-                                <div class="meta-info">
-                                    <a href="#"><i class="fa fa-user-o"></i> Admin</a>
-                                    <a href="#"><i class="fa fa-calendar-o"></i> 350</a>
-                                    <a href="#"><i class="fa fa-comments-o"></i> 30</a>
-                                </div><!-- /.meta-info -->
-                                <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
+                                <h3><a href="blog-details.html">Programa Bateria MOURA</a></h3>
+                                <a href="#" class="more-btn">Ver mais.</a>
                             </div><!-- /.text-block -->
                         </div><!-- /.single-blog-style-one -->
                     </div><!-- /.col-lg-6 -->
@@ -289,12 +284,7 @@
                                     </div><!-- /.image-block -->
                                     <div class="text-block">
                                         <h3><a href="blog-details.html">The Pink Screw ate Clumsily.</a></h3>
-                                        <div class="meta-info">
-                                            <a href="#"><i class="fa fa-user-o"></i> Admin</a>
-                                            <a href="#"><i class="fa fa-calendar-o"></i> 350</a>
-                                            <a href="#"><i class="fa fa-comments-o"></i> 30</a>
-                                        </div><!-- /.meta-info -->
-                                        <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
+                                        <a href="#" class="more-btn">Ver mais.</a>
                                     </div><!-- /.text-block -->
                                 </div><!-- /.single-blog-style-two -->
                             </div><!-- /.col-xl-12 -->
@@ -308,12 +298,7 @@
                                     </div><!-- /.image-block -->
                                     <div class="text-block">
                                         <h3><a href="blog-details.html">The Indigo Dentures Whined Softly.</a></h3>
-                                        <div class="meta-info">
-                                            <a href="#"><i class="fa fa-user-o"></i> Admin</a>
-                                            <a href="#"><i class="fa fa-calendar-o"></i> 350</a>
-                                            <a href="#"><i class="fa fa-comments-o"></i> 30</a>
-                                        </div><!-- /.meta-info -->
-                                        <a href="#" class="more-btn">Read More</a><!-- /.more-btn -->
+                                        <a href="#" class="more-btn">Ver mais.</a>
                                     </div><!-- /.text-block -->
                                 </div><!-- /.single-blog-style-two -->
                             </div><!-- /.col-xl-12 -->

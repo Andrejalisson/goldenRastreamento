@@ -27,7 +27,7 @@
 
     if ($('.quantity-spinner').length) {
         $("input.quantity-spinner").TouchSpin({
-            
+
         });
     }
 
@@ -64,53 +64,10 @@
         });
     }
     if ($('.contact-form-validated').length) {
-        $('.contact-form-validated').validate({ // initialize the plugin
-            rules: {
-                name: {
-                    required: true
-                },
-                fname: {
-                    required: true
-                },
-                lname: {
-                    required: true
-                },
-                email: {
-                    required: true,
-                    email: true
-                },
-                message: {
-                    required: true
-                },
-                subject: {
-                    required: true
-                }
-            },
-            submitHandler: function(form) {
-                // sending value with ajax request
-                $.post($(form).attr('action'), $(form).serialize(), function(response) {
-                    $(form).parent().find('.result').append(response);
-                    $(form).find('input[type="text"]').val('');
-                    $(form).find('input[type="email"]').val('');
-                    $(form).find('textarea').val('');
-                });
-                return false;
-            }
-        });
+
     }
     if ($('.banner-style-one').length) {
-        $('.banner-style-one').owlCarousel({
-            loop: true,
-            items: 1,
-            margin: 0,
-            dots: true,
-            nav: false,
-            animateOut: 'slideOutDown',
-            animateIn: 'fadeIn',
-            active: true,
-            smartSpeed: 1000,
-            autoplay: 5000
-        });
+
         $('.banner-carousel-btn .left-btn').on('click', function() {
             $('.banner-style-one').trigger('next.owl.carousel');
             return false;

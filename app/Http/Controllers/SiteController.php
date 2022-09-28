@@ -15,14 +15,10 @@ class SiteController extends Controller{
         return view('site.sobre')->with(compact('title'));
     }
 
-    public function planos(){
-        $title = "Planos";
-        return view('site.planos')->with(compact('title'));
+    public function contato(){
+        $title = "contato";
+        return view('site.contato')->with(compact('title'));
     }
 
-    public function assistencia(){
-        $title = "Assistência 24h";
-        return view('site.assistencia')->with(compact('title'));
-    }
-
+    
 }
