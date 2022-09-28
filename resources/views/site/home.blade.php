@@ -10,7 +10,7 @@
                 <div class="slide slide-two" style="background-image: url(images/slider/slider-1-2.jpg);"></div>
                 <div class="slide slide-three" style="background-image: url(images/slider/slider-1-3.jpg);"></div>
                 <div class="slide slide-four" style="background-image: url(images/slider/slider-1-4.jpg);"></div>
-            </section> 
+            </section>
         </div>
 
         <section class="offer-style-one">
@@ -61,7 +61,7 @@
                                 <h2>Desde 2008</h2>
                             </div><!-- /.title-block -->
                             <p>Com mais de 11 anos de existência, a Golden Service vem garantindo segurança, com confiabilidade para os seus clientes. Com foco na qualidade do atendimento, contribuímos para o aumento da segurança daquilo que é importante para você.</p>
-                            
+
                             <a href="#" class="more-btn">Entrar em contato</a>
                         </div><!-- /.content-block -->
                     </div><!-- /.col-lg-6 -->
@@ -146,7 +146,7 @@
                             </div><!-- /.image-block -->
                             <div class="text-block">
                                 <h3><a href="services.html">Seguro</a></h3>
-                                <p>Para muito mais segurança e qualidade de vida, oferecemos seguro autorizado pela SUSEP para seu veículo e para tudo que é importante para você! Temos parceria com mais de 30 seguradoras, que permite encontrarmos  um seguro que atenda as suas necessidades e ao seu bolso.</p>
+                                <p>Somos franqueado da Bidon Corretora de Seguros autorizada pela SUSEP, e por meio dela, temos parceria com mais de 30 seguradoras do país! Permitindo encontrarmos um seguro para seu veículo que atenda as suas necessidades e ao seu bolso!</p>
                                 <a href="#" class="more-btn">Ver mais.</a><!-- /.more-btn -->
                             </div><!-- /.text-block -->
                         </div><!-- /.single-service-one -->
@@ -178,41 +178,7 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.service-style-one -->
-        <section class="fun-fact-style-one">
-            <div class="container">
-                <div class="fun-fact-block-wrapper">
-                    <div class="single-fun-fact-one">
-                        <div class="icon-block">
-                            <i class="cameron-icon-locked"></i>
-                        </div><!-- /.icon-block -->
-                        <div class="text-block">
-                            <h3 class="counter">11</h3>
-                            <p>Anos de Experiência</p>
-                        </div><!-- /.text-block -->
-                    </div><!-- /.single-fun-fact-one -->
-                    <div class="single-fun-fact-one">
-                        <div class="icon-block">
-                            <i class="cameron-icon-smile"></i>
-                        </div><!-- /.icon-block -->
-                        <div class="text-block">
-                            <h3 class="counter">1000</h3>
-                            <p>Clientes Atendidos</p>
-                        </div><!-- /.text-block -->
-                    </div><!-- /.single-fun-fact-one -->
-                    <div class="single-fun-fact-one">
-                        <div class="icon-block">
-                            <i class="cameron-icon-coffee-cup"></i>
-                        </div><!-- /.icon-block -->
-                        <div class="text-block">
-                            <h3 class="counter">2500000</h3>
-                            <p>Bens Recuperados</p>
-                        </div><!-- /.text-block -->
-                    </div><!-- /.single-fun-fact-one -->
-                    
-                </div><!-- /.fun-fact-block-wrapper -->
-            </div><!-- /.container -->
-        </section><!-- /.fun-fact-style-one -->
-        
+
         <section class="testimonials-style-one">
             <div class="container">
                 <div class="title-block text-center">
@@ -250,7 +216,7 @@
                 </div><!-- /.owl-carousel owl-theme testi-carousel-one -->
             </div><!-- /.container -->
         </section><!-- /.testimonials-style-one -->
-        
+
         <section class="blog-style-one">
             <div class="container">
                 <div class="title-block text-center">
@@ -307,42 +273,6 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.blog-style-one -->
-        <section class="brands-area-one">
-            <div class="container">
-                <div class="brands-carousel-one owl-carousel owl-theme">
-                    <div class="item">
-                        <img src="images/brands/brands-1-1.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-2.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-3.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-4.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-5.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-1.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-2.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-3.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-4.png" alt="awesome image">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="images/brands/brands-1-5.png" alt="awesome image">
-                    </div><!-- /.item -->
-                </div><!-- /.brands-carousel-one -->
-            </div><!-- /.container -->
-        </section><!-- /.brands-area-one -->
 @endsection
 
 @section('js')
