@@ -31,7 +31,7 @@
                         <p>seg a sex 8h00 - 17h00</p>
                         <p>aos sábados 8h00 - 12h00</p><br>
                     <p><i class="fa fa-phone" aria-hidden="true"></i> Em caso de roubo ou furto e solicitar serviços de assistência veicular 24h (reboque, chaveiro, troca de pneu furado, pane seca), entre em contato com a nossa central 0800 de atendimento 24h
-                        0800 883 6228</p><br>
+                        <br> 0800 883 6228</p><br>
                     <h5><i class="fa fa-envelope-o" aria-hidden="true"></i> Email de contato</h5>
                         <p>contato@grupogoldenservice.com.br</p>
 
