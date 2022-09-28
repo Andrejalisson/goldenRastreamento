@@ -20,5 +20,10 @@ class SiteController extends Controller{
         return view('site.contato')->with(compact('title'));
     }
 
-    
+    public function faq(){
+        $title = "FAQ - Dúvidas Frequentes";
+        return view('site.faq')->with(compact('title'));
+    }
+
+
 }

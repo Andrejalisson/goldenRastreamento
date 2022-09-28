@@ -65,8 +65,7 @@
                             <li><a href="#">Área do Cliente</a>
                                 <ul class="sub-menu">
                                     <li><a href="#">Rastreamento</a></li>
-                                    <li><a href="#">FAQ</a></li>
-                                    <li><a href="#">Dúvidas Frequentes</a></li>
+                                    <li><a href="/FAQ">FAQ - Dúvidas Frequentes</a></li>
                                 </ul><!-- /.sub-menu -->
                             </li>
                         </ul>
