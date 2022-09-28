@@ -9,42 +9,46 @@
         <h2>Contato</h2>
     </div>
 </section>
-<section class="contact-info-style-one">
+<section class="about-style-one">
     <div class="container">
-        <div class="title-block text-center">
-            <span class="tag-line">Contato</span>
-        </div>
-        <div class="row high-gutter">
-            <div class="col-lg-4">
-                <div class="single-contact-info-one text-center">
-                    <div class="inner-block">
-                        <i class="cameron-icon-placeholder"></i>
-                        <h3>Onde estamos?</h3>
-                        <p>Av. Perímetral, 10 - Parque São José, <br> Fortaleza - CE, 60730-220</p>
-                    </div><!-- /.inner-block -->
-                </div><!-- /.single-contact-info-one -->
-            </div><!-- /.col-lg-4 -->
-            <div class="col-lg-4">
-                <div class="single-contact-info-one text-center">
-                    <div class="inner-block">
-                        <i class="cameron-icon-smartphone"></i>
-                        <h3>Nosso comercial</h3>
-                        <p>85 3065-0917 <br> 85 98521-4611</p>
-                    </div><!-- /.inner-block -->
-                </div><!-- /.single-contact-info-one -->
-            </div><!-- /.col-lg-4 -->
-            <div class="col-lg-4">
-                <div class="single-contact-info-one text-center">
-                    <div class="inner-block">
-                        <i class="cameron-icon-opened-email-outlined-interface-symbol"></i>
-                        <h3>Horário de Funcionamento</h3>
-                        <p>Seg a Sex 8h00 - 17h00 <br> Aos sábados 8h00 - 12h00</p>
-                    </div><!-- /.inner-block -->
-                </div><!-- /.single-contact-info-one -->
-            </div><!-- /.col-lg-4 -->
+        <div class="row">
+            <div class="col-lg-6 d-flex">
+                <div class="content-block my-auto">
+                    <div class="title-block">
+                        <h3>Fale conosco através dos nossos canais de atendimento</h3>
+                    </div><!-- /.title-block -->
+                    <p>Fale conosco através dos nossos canais de atendimento
+                        Se preferir utilize o formulário de contato e envie suas dúvidas, sugestões, elogios, depoimentos e feedbacks para que possamos melhorar cada vez mais.</p>
+                        <br>
+                    <h5><i class="fa fa-location-arrow" aria-hidden="true"></i>Onde estamos?</h5>
+                        <p>Av. Perímetral, 10 - Parque São José, Fortaleza - CE, 60730-220</p>
+                    <h5>Nosso comercial</h5>
+                        <p>85 3065-0917</p>
+                    <h5>Mande uma mensagem para nosso whatsapp</h5>
+                        <p>85 98521-4611</p>
+                        <p><small>*somente mensagem</small></p>
+                    <h5>Horário de funcionamento:</h5>
+                        <p>seg a sex 8h00 - 17h00</p>
+                        <p>aos sábados 8h00 - 12h00</p><br>
+                    <p>em caso de roubo ou furto e solicitar serviços de assistência veicular 24h (reboque, chaveiro, troca de pneu furado, pane seca), entre em contato com a nossa central 0800 de atendimento 24h
+                        0800 883 6228</p><br>
+                        <h5>Email de contato</h5>
+                        <p>contato@grupogoldenservice.com.br</p>
+
+
+
+
+
+                </div><!-- /.content-block -->
+            </div><!-- /.col-lg-6 -->
+            <div class="col-lg-6">
+                <div class="image-block">
+                    <img src="images/resources/story-1-1.png" alt="Awesome Image" />
+                </div><!-- /.image-block -->
+            </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
-</section><!-- /.contact-info-style-one -->
+</section><!-- /.about-style-one -->
 <section class="contact-form-wrapper">
     <div class="container">
         <div class="inner-container">
