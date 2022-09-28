@@ -20,19 +20,19 @@
                     <p>Fale conosco através dos nossos canais de atendimento
                         Se preferir utilize o formulário de contato e envie suas dúvidas, sugestões, elogios, depoimentos e feedbacks para que possamos melhorar cada vez mais.</p>
                         <br>
-                    <h5><i class="fa fa-location-arrow" aria-hidden="true"></i>Onde estamos?</h5>
+                    <h5><i class="fa fa-location-arrow" aria-hidden="true"></i> Onde estamos?</h5>
                         <p>Av. Perímetral, 10 - Parque São José, Fortaleza - CE, 60730-220</p>
-                    <h5>Nosso comercial</h5>
+                    <h5><i class="fa fa-phone" aria-hidden="true"></i> Nosso comercial</h5>
                         <p>85 3065-0917</p>
-                    <h5>Mande uma mensagem para nosso whatsapp</h5>
+                    <h5><i class="fa fa-comments-o" aria-hidden="true"></i> Mande uma mensagem para nosso whatsapp</h5>
                         <p>85 98521-4611</p>
                         <p><small>*somente mensagem</small></p>
-                    <h5>Horário de funcionamento:</h5>
+                    <h5><i class="fa fa-clock-o" aria-hidden="true"></i> Horário de funcionamento:</h5>
                         <p>seg a sex 8h00 - 17h00</p>
                         <p>aos sábados 8h00 - 12h00</p><br>
-                    <p>em caso de roubo ou furto e solicitar serviços de assistência veicular 24h (reboque, chaveiro, troca de pneu furado, pane seca), entre em contato com a nossa central 0800 de atendimento 24h
+                    <p><i class="fa fa-phone" aria-hidden="true"></i> Em caso de roubo ou furto e solicitar serviços de assistência veicular 24h (reboque, chaveiro, troca de pneu furado, pane seca), entre em contato com a nossa central 0800 de atendimento 24h
                         0800 883 6228</p><br>
-                        <h5>Email de contato</h5>
+                    <h5><i class="fa fa-envelope-o" aria-hidden="true"></i> Email de contato</h5>
                         <p>contato@grupogoldenservice.com.br</p>
 
 
