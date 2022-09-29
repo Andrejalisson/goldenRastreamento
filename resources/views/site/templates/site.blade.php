@@ -20,7 +20,7 @@
 </head>
 
 <body>
-    <div class="preloader"></div>
+
 
     <div class="page-wrapper">
         <header class="main-header header-style-one">
