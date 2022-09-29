@@ -6,7 +6,7 @@
 @section('corpo')
 <section class="page-title-block text-center">
     <div class="container">
-        <h2>Sobre</h2>
+        <h2>Quem Somos</h2>
     </div>
 </section>
 <section class="about-style-two">

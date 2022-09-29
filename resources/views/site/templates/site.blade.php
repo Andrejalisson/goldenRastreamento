@@ -90,7 +90,7 @@
                                 <a href="index.html" class="footer-logo">
                                     <img src="images/resources/footer-logo-1-1.png" alt="awesome image">
                                 </a>
-                                <p>Golden Service Tem o Rastreador Ideal para o Seu Veículo. Empresa Especializada no Monitoramento e Rastreamento de Veículos Via Satélite.</p>
+                                <p>Há mais de uma década ajudamos pessoas a viverem tranquilamente. Garantimos segurança com confiabilidade. Mantemos o foco na qualidade do atendimento e contribuímos para um mundo mais seguro.</p>
                                 <div class="social-block">
                                     <a href="https://pt-br.facebook.com/GrupoGoldenService/" target="_blank"><i class="fa fa-facebook-f"></i></a>
                                     <a href="https://www.instagram.com/golden_service/" target="_blank"><i class="fa fa-instagram"></i></a>
@@ -104,12 +104,24 @@
                                     <h3>SiteMap</h3>
                                 </div><!-- /.footer-widget-title -->
                                 <ul class="links-lists">
-                                    <li><a href="/">HOME </a></li>
-                                    <li><a href="/Sobre">SOBRE </a></li>
-                                    <li><a href="/Planos">PLANOS </a></li>
-                                    <li><a href="/Assistencia">ASSISTÊNCIA 24H</a></li>
-                                    <li><a href="https://fortechgps.softruck.com/access/login" target="_blank">ÁREA DO CLIENTE</a></li>
-                                    <li><a href="#">ÁREA ADMINISTRATIVA</a></li>
+                                    <li class="current"><a href="/">Home</a></li>
+                            <li><a href="/Sobre">Sobre</a></li>
+                            <li><a href="#">Serviços</a>
+                                <ul class="sub-menu">
+                                    <li><a href="#">Rastreamento Veicular</a></li>
+                                    <li><a href="#">Seguro</a></li>
+                                    <li><a href="#">Bateria Moura</a></li>
+                                    <li><a href="#">Assistência Veicular</a></li>
+                                </ul><!-- /.sub-menu -->
+                            </li>
+                            <li><a href="#">Blog</a></li>
+                            <li><a href="/Contato">Contato</a></li>
+                            <li><a href="#">Área do Cliente</a>
+                                <ul class="sub-menu">
+                                    <li><a href="#">Rastreamento</a></li>
+                                    <li><a href="/FAQ">FAQ - Dúvidas Frequentes</a></li>
+                                </ul><!-- /.sub-menu -->
+                            </li>
                                 </ul><!-- /.links-lists -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-lg-3 -->
@@ -139,5 +151,7 @@
     <script src="js/wow.js"></script>
     <script src="js/theme.js"></script>
 </body>
+
+<script type="text/javascript">(function(n,r,l,d){try{var h=r.head||r.getElementsByTagName("head")[0],s=r.createElement("script");s.defer=true;s.setAttribute("type","text/javascript");s.setAttribute("src",l);n.neuroleadId=d;h.appendChild(s);}catch(e){}})(window,document,"https://cdn.leadster.com.br/neurolead/neurolead.min.js", 62155);</script>
 
 </html>
