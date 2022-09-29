@@ -64,7 +64,12 @@
                             <li><a href="/Contato">Contato</a></li>
                             <li><a href="#">Área do Cliente</a>
                                 <ul class="sub-menu">
-                                    <li><a href="#">Rastreamento</a></li>
+                                    <li><a href="#">Rastreamento</a>
+                                        <ul class="sub-menu">
+                                            <li><a target="_blank" href="https://sistema.getrak.com.br/goldenservice/">Sistema Getrak</a></li>
+                                            <li><a target="_blank" href="http://ap3.stc.srv.br/webcliente/goldenservice/login">Sistema MOVIT</a></li>
+                                        </ul><!-- /.sub-menu -->
+                                    </li>
                                     <li><a href="/FAQ">FAQ - Dúvidas Frequentes</a></li>
                                 </ul><!-- /.sub-menu -->
                             </li>
