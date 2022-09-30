@@ -4,7 +4,7 @@
 @endsection
 
 @section('corpo')
-<div class="main-banner-wrapper">
+        <div class="main-banner-wrapper">
             <section class="banner-style-one owl-theme owl-carousel no-dots">
                 <div class="slide slide-one" style="background-image: url(images/slider/slider-1-1.jpg);"></div>
                 <div class="slide slide-two" style="background-image: url(images/slider/slider-1-2.jpg);"></div>

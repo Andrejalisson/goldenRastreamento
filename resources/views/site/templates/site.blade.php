@@ -85,7 +85,9 @@
                 </div>
             </nav>
         </header>
+
         @yield('corpo')
+
         <footer class="site-footer">
             <div class="main-footer">
                 <div class="container">

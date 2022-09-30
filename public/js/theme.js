@@ -67,6 +67,19 @@
 
     }
     if ($('.banner-style-one').length) {
+        $('.banner-style-one').owlCarousel({
+            loop: true,
+            items: 1,
+            margin: 0,
+            dots: true,
+            nav: false,
+            animateOut: 'slideOutDown',
+            animateIn: 'fadeIn',
+            active: true,
+            smartSpeed: 1000,
+            autoplay: 5000
+        });
+
 
         $('.banner-carousel-btn .left-btn').on('click', function() {
             $('.banner-style-one').trigger('next.owl.carousel');
