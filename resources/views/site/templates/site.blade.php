@@ -13,8 +13,8 @@
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/responsive.css">
     <link rel="stylesheet" href="/plugins/fontawesome/css/all.css">
     @yield('css')
 </head>
@@ -40,8 +40,8 @@
                 <div class="container clearfix">
                     <div class="logo-box clearfix">
                         <a class="navbar-brand" href="/">
-                            <img src="images/resources/logo-1-1.png" class="main-logo" alt="Golden Service"/>
-                            <img src="images/resources/logo-1-2.png" class="stricky-logo" alt="Golden Service"/>
+                            <img src="/images/resources/logo-1-1.png" class="main-logo" alt="Golden Service"/>
+                            <img src="/images/resources/logo-1-2.png" class="stricky-logo" alt="Golden Service"/>
                         </a>
                         <button class="menu-toggler" data-target=".header-style-two .main-navigation">
                             <span class="fa fa-bars"></span>
@@ -54,10 +54,10 @@
                             <li><a href="/Sobre">Sobre</a></li>
                             <li><a href="#">Serviços</a>
                                 <ul class="sub-menu">
-                                    <li><a href="#">Rastreamento Veicular</a></li>
-                                    <li><a href="#">Seguro</a></li>
-                                    <li><a href="#">Bateria Moura</a></li>
-                                    <li><a href="#">Assistência Veicular</a></li>
+                                    <li><a href="/Servico/RastreamentoVeicular">Rastreamento Veicular</a></li>
+                                    <li><a href="/Servico/Seguro">Seguro</a></li>
+                                    <li><a href="/Servico/BateriaMoura">Bateria Moura</a></li>
+                                    <li><a href="/Servico/AssistenciaVeicular">Assistência Veicular</a></li>
                                 </ul><!-- /.sub-menu -->
                             </li>
                             <li><a href="/Contato">Contato</a></li>
@@ -93,8 +93,8 @@
                     <div class="row no-gutters">
                         <div class="col-lg-4 col-md-6">
                             <div class="footer-widget about-widget">
-                                <a href="index.html" class="footer-logo">
-                                    <img src="images/resources/footer-logo-1-1.png" alt="awesome image">
+                                <a href="/" class="footer-logo">
+                                    <img src="/images/resources/footer-logo-1-1.png" alt="awesome image">
                                 </a>
                                 <p>Há mais de uma década ajudamos pessoas a viverem tranquilamente. Garantimos segurança com confiabilidade. Mantemos o foco na qualidade do atendimento e contribuímos para um mundo mais seguro.</p>
                                 <div class="social-block">
@@ -153,13 +153,13 @@
         </footer><!-- /.site-footer -->
     </div><!-- /.page-wrapper -->
 
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <script src="js/wow.js"></script>
-    <script src="js/theme.js"></script>
+    <script src="/js/jquery.js"></script>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/owl.carousel.min.js"></script>
+    <script src="/js/waypoints.min.js"></script>
+    <script src="/js/jquery.counterup.min.js"></script>
+    <script src="/js/wow.js"></script>
+    <script src="/js/theme.js"></script>
 </body>
 
 <script type="text/javascript">(function(n,r,l,d){try{var h=r.head||r.getElementsByTagName("head")[0],s=r.createElement("script");s.defer=true;s.setAttribute("type","text/javascript");s.setAttribute("src",l);n.neuroleadId=d;h.appendChild(s);}catch(e){}})(window,document,"https://cdn.leadster.com.br/neurolead/neurolead.min.js", 62155);</script>

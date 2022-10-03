@@ -25,5 +25,25 @@ class SiteController extends Controller{
         return view('site.faq')->with(compact('title'));
     }
 
+    public function rastreamento(){
+        $title = "Rastreamento Veicular";
+        return view('site.rastreamento')->with(compact('title'));
+    }
+
+    public function seguro(){
+        $title = "Seguro";
+        return view('site.seguro')->with(compact('title'));
+    }
+
+    public function bateria(){
+        $title = "Bateria Moura";
+        return view('site.bateria')->with(compact('title'));
+    }
+
+    public function assistencia(){
+        $title = "Assistência Veicular";
+        return view('site.assistencia')->with(compact('title'));
+    }
+
 
 }
