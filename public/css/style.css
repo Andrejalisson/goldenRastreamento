@@ -2928,6 +2928,7 @@ a:visited {
   line-height: 1em;
 }
 .single-pricing-style-one .feature-list {
+    text-align: initial;
   display: inline-block;
   vertical-align: middle;
 }

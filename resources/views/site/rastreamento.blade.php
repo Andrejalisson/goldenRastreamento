@@ -29,6 +29,26 @@
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section><!-- /.about-style-two -->
+<section class="about-style-two">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 d-flex">
+                <div class="content-block my-auto">
+                    <div class="title-block">
+                        <span class="tag-line">#VemPraGolden</span>
+                        <h2>Rastreamento da Golden Service</h2>
+                    </div><!-- /.title-block -->
+                    <p>Rastreamento da Golden Service, mais segurança para você e proteção para o seu veículo. Com o rastreamento você poderá saber a localização do seu veículo em qualquer hora do dia, e, em caso de roubo ou furto facilita a localização e a recuperação</p><br>
+                </div><!-- /.content-block -->
+            </div><!-- /.col-lg-6 -->
+            <div class="col-lg-6">
+                <div class="image-block">
+                    <img src="/images/resources/video-1-1.png" alt="Awesome Image" />
+                </div>
+            </div>
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section><!-- /.about-style-two -->
 <section class="pricing-style-one pricing-page">
     <div class="container">
         <div class="title-block text-center ">
@@ -44,7 +64,6 @@
                         <h3>TOP</h3>
                         <span class="price">R$70,00<small>(carro)</small></span><br>
                         <span class="price">R$65,00<small>(Moto)</small></span><br>
-                        <p>Escolhendo este plano econômico, você mesmo pode fazer a proteção do seu veículo de maneira fácil e prática pelo seu smartphone com app Movit</p>
                     </div><!-- /.top-block -->
                     <div class="bottom-block">
                         <ul class="feature-list">
@@ -69,7 +88,6 @@
                         <h3>Econômico</h3>
                         <span class="price">R$55,00<small>(carro)</small></span><br>
                         <span class="price">R$50,00<small>(Moto)</small></span><br>
-                        <p>Escolhendo este plano econômico, você mesmo pode fazer a proteção do seu veículo de maneira fácil e prática pelo seu smartphone com app Movit</p>
                     </div><!-- /.top-block -->
                     <div class="bottom-block">
                         <ul class="feature-list">
