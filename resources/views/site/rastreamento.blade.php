@@ -43,7 +43,7 @@
                         <p>Plano TOP</p>
                         <h3>TOP</h3>
                         <span class="price">R$70,00<small>(carro)</small></span><br>
-                        <span class="price">R$65,00<small>(Moto)</small></span>
+                        <span class="price">R$65,00<small>(Moto)</small></span><br>
                         <p>Escolhendo este plano econômico, você mesmo pode fazer a proteção do seu veículo de maneira fácil e prática pelo seu smartphone com app Movit</p>
                     </div><!-- /.top-block -->
                     <div class="bottom-block">
@@ -68,7 +68,7 @@
                         <p>Plano Econômico</p>
                         <h3>Econômico</h3>
                         <span class="price">R$55,00<small>(carro)</small></span><br>
-                        <span class="price">R$50,00<small>(Moto)</small></span>
+                        <span class="price">R$50,00<small>(Moto)</small></span><br>
                         <p>Escolhendo este plano econômico, você mesmo pode fazer a proteção do seu veículo de maneira fácil e prática pelo seu smartphone com app Movit</p>
                     </div><!-- /.top-block -->
                     <div class="bottom-block">
