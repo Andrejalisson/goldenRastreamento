@@ -60,7 +60,6 @@
                                     <li><a href="#">Assistência Veicular</a></li>
                                 </ul><!-- /.sub-menu -->
                             </li>
-                            <li><a href="#">Blog</a></li>
                             <li><a href="/Contato">Contato</a></li>
                             <li><a href="#">Área do Cliente</a>
                                 <ul class="sub-menu">
@@ -112,23 +111,27 @@
                                 </div><!-- /.footer-widget-title -->
                                 <ul class="links-lists">
                                     <li class="current"><a href="/">Home</a></li>
-                            <li><a href="/Sobre">Sobre</a></li>
-                            <li><a href="#">Serviços</a>
-                                <ul class="sub-menu">
-                                    <li><a href="#">Rastreamento Veicular</a></li>
-                                    <li><a href="#">Seguro</a></li>
-                                    <li><a href="#">Bateria Moura</a></li>
-                                    <li><a href="#">Assistência Veicular</a></li>
-                                </ul><!-- /.sub-menu -->
-                            </li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="/Contato">Contato</a></li>
-                            <li><a href="#">Área do Cliente</a>
-                                <ul class="sub-menu">
-                                    <li><a href="#">Rastreamento</a></li>
-                                    <li><a href="/FAQ">FAQ - Dúvidas Frequentes</a></li>
-                                </ul><!-- /.sub-menu -->
-                            </li>
+                                    <li><a href="/Sobre">Sobre</a></li>
+                                    <li><a href="#">Serviços</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="#">Rastreamento Veicular</a></li>
+                                            <li><a href="#">Seguro</a></li>
+                                            <li><a href="#">Bateria Moura</a></li>
+                                            <li><a href="#">Assistência Veicular</a></li>
+                                        </ul><!-- /.sub-menu -->
+                                    </li>
+                                    <li><a href="/Contato">Contato</a></li>
+                                    <li><a href="#">Área do Cliente</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="#">Rastreamento</a>
+                                                <ul class="sub-menu">
+                                                    <li><a target="_blank" href="https://sistema.getrak.com.br/goldenservice/">PLANO TOP</a></li>
+                                                    <li><a target="_blank" href="http://ap3.stc.srv.br/webcliente/goldenservice/login">PLANO ECONÔMICO</a></li>
+                                                </ul><!-- /.sub-menu -->
+                                            </li>
+                                            <li><a href="/FAQ">FAQ - Dúvidas Frequentes</a></li>
+                                        </ul><!-- /.sub-menu -->
+                                    </li>
                                 </ul><!-- /.links-lists -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-lg-3 -->

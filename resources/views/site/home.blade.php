@@ -216,63 +216,6 @@
                 </div><!-- /.owl-carousel owl-theme testi-carousel-one -->
             </div><!-- /.container -->
         </section><!-- /.testimonials-style-one -->
-
-        <section class="blog-style-one">
-            <div class="container">
-                <div class="title-block text-center">
-                    <span class="tag-line">News</span><!-- /.tag-line -->
-                    <h2>Latest Articles</h2>
-                </div><!-- /.title-block -->
-                <div class="row high-gutter">
-                    <div class="col-xl-6 col-lg-12">
-                        <div class="single-blog-style-one">
-                            <div class="image-block">
-                                <img src="images/blog/blog-1-1.jpg" alt="awesome image">
-                                <div class="overlay-block">
-                                    <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                </div><!-- /.overlay-block -->
-                            </div><!-- /.image-block -->
-                            <div class="text-block">
-                                <h3><a href="blog-details.html">Programa Bateria MOURA</a></h3>
-                                <a href="#" class="more-btn">Ver mais.</a>
-                            </div><!-- /.text-block -->
-                        </div><!-- /.single-blog-style-one -->
-                    </div><!-- /.col-lg-6 -->
-                    <div class="col-xl-6 col-lg-12">
-                        <div class="row high-gutter col1-blog-wrapper">
-                            <div class="col-xl-12 col-lg-12">
-                                <div class="single-blog-style-two clearfix">
-                                    <div class="image-block">
-                                        <img src="images/blog/blog-2-1.jpg" alt="awesome image">
-                                        <div class="overlay-block">
-                                            <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                        </div><!-- /.overlay-block -->
-                                    </div><!-- /.image-block -->
-                                    <div class="text-block">
-                                        <h3><a href="blog-details.html">The Pink Screw ate Clumsily.</a></h3>
-                                        <a href="#" class="more-btn">Ver mais.</a>
-                                    </div><!-- /.text-block -->
-                                </div><!-- /.single-blog-style-two -->
-                            </div><!-- /.col-xl-12 -->
-                            <div class="col-xl-12 col-lg-12">
-                                <div class="single-blog-style-two clearfix">
-                                    <div class="image-block">
-                                        <img src="images/blog/blog-2-2.jpg" alt="awesome image">
-                                        <div class="overlay-block">
-                                            <a class="more-link" href="#"><i class="fa fa-arrows-alt"></i></a>
-                                        </div><!-- /.overlay-block -->
-                                    </div><!-- /.image-block -->
-                                    <div class="text-block">
-                                        <h3><a href="blog-details.html">The Indigo Dentures Whined Softly.</a></h3>
-                                        <a href="#" class="more-btn">Ver mais.</a>
-                                    </div><!-- /.text-block -->
-                                </div><!-- /.single-blog-style-two -->
-                            </div><!-- /.col-xl-12 -->
-                        </div><!-- /.row -->
-                    </div><!-- /.col-lg-6 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.blog-style-one -->
 @endsection
 
 @section('js')
