@@ -12,88 +12,70 @@
 <section class="offer-style-one">
     <div class="container">
         <div class="title-block">
-            <span class="tag-line">Offers</span><!-- /.tag-line -->
-            <h2>Our Best Offer</h2>
+            <h2>Seguro</h2>
+            <span>Somos franqueado da Bidon Corretora de Seguros autorizada pela SUSEP, e por meio dela, temos parceria com mais de 30 seguradoras do país! Permitindo encontrarmos um seguro para seu veículo que atenda as suas necessidades e ao seu bolso!</span><!-- /.tag-line -->
+
         </div><!-- /.title-block -->
         <div class="row">
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="0ms">
                     <div class="icon-block">
                         <i class="cameron-icon-temperature"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">Home <br> Security</a></h3>
-                    <p>Excepteur sint occaecat cupidatat non proi dent sunt in culpa qui officia deserunt mollit.</p>
-                    <a href="#" class="more-link">Read More</a>
+                    <h3><a href="#">Preços  <br> Imbatíveis</a></h3>
+                    <p>Com a nossa excelente gama de seguradoras e acordos diferenciados, conseguimos preços imbatíveis para você.</p>
+                    <a href="#" class="more-link">Contratar</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="500ms">
                     <div class="icon-block">
                         <i class="cameron-icon-briefcase"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">Business <br> Security</a></h3>
-                    <p>Excepteur sint occaecat cupidatat non proi dent sunt in culpa qui officia deserunt mollit.</p>
-                    <a href="#" class="more-link">Read More</a>
+                    <h3><a href="#">Atendimento <br> Personalizado</a></h3>
+                    <p>A nossa equipe está pronta para te atender e instruir sempre que você precisar.</p>
+                    <a href="#" class="more-link">Contratar</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1000ms">
                     <div class="icon-block">
                         <i class="cameron-icon-safe-box"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">Information <br> Security</a></h3>
-                    <p>Excepteur sint occaecat cupidatat non proi dent sunt in culpa qui officia deserunt mollit.</p>
-                    <a href="#" class="more-link">Read More</a>
+                    <h3><a href="#">Milhares de <br> Clientes</a></h3>
+                    <p>Nada melhor do que escolher um serviço que já é aprovado por muitos consumidores.</p>
+                    <a href="#" class="more-link">Contratar</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
-            <div class="col-lg-3 col-md-6">
-                <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1500ms">
-                    <div class="icon-block">
-                        <i class="cameron-icon-support"></i>
-                    </div><!-- /.icon-block -->
-                    <h3><a href="#">Useful <br> Support</a></h3>
-                    <p>Excepteur sint occaecat cupidatat non proi dent sunt in culpa qui officia deserunt mollit.</p>
-                    <a href="#" class="more-link">Read More</a>
-                </div><!-- /.single-offer-style-one -->
-            </div><!-- /.col-lg-3 -->
-            <div class="col-lg-3 col-md-6">
+
+            <div class="col-lg-4 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="0ms">
                     <div class="icon-block">
                         <i class="cameron-icon-temperature"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">Home <br> Security</a></h3>
-                    <p>Excepteur sint occaecat cupidatat non proi dent sunt in culpa qui officia deserunt mollit.</p>
-                    <a href="#" class="more-link">Read More</a>
+                    <h3><a href="#">Estamos presente <br> em todo o País</a></h3>
+                    <p>Os nossos consultores estão espalhados por todo o território nacional, prontos para te atender.</p>
+                    <a href="#" class="more-link">Contratar</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="500ms">
                     <div class="icon-block">
                         <i class="cameron-icon-briefcase"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">Business <br> Security</a></h3>
-                    <p>Excepteur sint occaecat cupidatat non proi dent sunt in culpa qui officia deserunt mollit.</p>
-                    <a href="#" class="more-link">Read More</a>
+                    <h3><a href="#">Seguradoras</a></h3>
+                    <p>Parceria com as melhores seguradoras do mercado. Trabalhamos com as melhores para oferecer o que há de melhor no mercado aos nossos amigos clientes.</p>
+                    <a href="#" class="more-link">Contratar</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1000ms">
                     <div class="icon-block">
                         <i class="cameron-icon-safe-box"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">Information <br> Security</a></h3>
-                    <p>Excepteur sint occaecat cupidatat non proi dent sunt in culpa qui officia deserunt mollit.</p>
-                    <a href="#" class="more-link">Read More</a>
-                </div><!-- /.single-offer-style-one -->
-            </div><!-- /.col-lg-3 -->
-            <div class="col-lg-3 col-md-6">
-                <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1500ms">
-                    <div class="icon-block">
-                        <i class="cameron-icon-support"></i>
-                    </div><!-- /.icon-block -->
-                    <h3><a href="#">Useful <br> Support</a></h3>
-                    <p>Excepteur sint occaecat cupidatat non proi dent sunt in culpa qui officia deserunt mollit.</p>
-                    <a href="#" class="more-link">Read More</a>
+                    <h3><a href="#">Tecnologia</a></h3>
+                    <p>Tecnologia de última geração para trazer o que há de novo, contemporâneo e usual no mercado de seguros. Trabalhamos para sempre estarmos antenados e atualizados com as mudanças tecnológicas do Mundo.</p>
+                    <a href="#" class="more-link">Contratar</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
         </div><!-- /.row -->
