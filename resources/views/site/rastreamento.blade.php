@@ -14,14 +14,14 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="image-block">
-                    <img src="/images/resources/video-1-1.png" alt="Awesome Image" />
+                    <img src="/images/resources/rastreamento1.jpg" alt="Awesome Image" />
                 </div>
             </div>
             <div class="col-lg-6 d-flex">
                 <div class="content-block my-auto">
                     <div class="title-block">
                         <span class="tag-line">#VemPraGolden</span>
-                        <h2>Rastreamento da Golden Service</h2>
+                        <h2>Rastreamento Veicular</h2>
                     </div><!-- /.title-block -->
                     <p>Rastreamento da Golden Service, mais segurança para você e proteção para o seu veículo. Com o rastreamento você poderá saber a localização do seu veículo em qualquer hora do dia, e, em caso de roubo ou furto facilita a localização e a recuperação</p><br>
                 </div><!-- /.content-block -->
@@ -36,14 +36,14 @@
                 <div class="content-block my-auto">
                     <div class="title-block">
                         <span class="tag-line">#VemPraGolden</span>
-                        <h2>Rastreamento da Golden Service</h2>
+                        <h2>Rastreamento Veicular</h2>
                     </div><!-- /.title-block -->
                     <p>Rastreamento da Golden Service, mais segurança para você e proteção para o seu veículo. Com o rastreamento você poderá saber a localização do seu veículo em qualquer hora do dia, e, em caso de roubo ou furto facilita a localização e a recuperação</p><br>
                 </div><!-- /.content-block -->
             </div><!-- /.col-lg-6 -->
             <div class="col-lg-6">
                 <div class="image-block">
-                    <img src="/images/resources/video-1-1.png" alt="Awesome Image" />
+                    <img src="/images/resources/rastreamento2.jpg" alt="Awesome Image" />
                 </div>
             </div>
         </div><!-- /.row -->
