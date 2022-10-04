@@ -2784,7 +2784,6 @@ a:visited {
 -18 page title styles
 */
 .page-title-block {
-  background: #222222 url(../images/background/page-title-bg.jpg) center center no-repeat fixed;
   background-size: cover;
   position: relative;
   padding: 101px 0;

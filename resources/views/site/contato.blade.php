@@ -4,7 +4,7 @@
 @endsection
 
 @section('corpo')
-<section class="page-title-block text-center">
+<section class="page-title-block text-center" style="background: #222222 url(../images/background/page-title-contato.jpg) center center no-repeat fixed">
     <div class="container">
         <h2>Contato</h2>
     </div>
