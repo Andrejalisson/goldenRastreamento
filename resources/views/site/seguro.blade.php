@@ -20,7 +20,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="0ms">
                     <div class="icon-block">
-                        <i class="cameron-icon-temperature"></i>
+                        <i class="fa fa-calculator"></i>
                     </div><!-- /.icon-block -->
                     <h3><a href="#">Preços  <br> Imbatíveis</a></h3>
                     <p>Com a nossa excelente gama de seguradoras e acordos diferenciados, conseguimos preços imbatíveis para você.</p>
@@ -30,7 +30,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="500ms">
                     <div class="icon-block">
-                        <i class="cameron-icon-briefcase"></i>
+                        <i class="fa fa-headphones"></i>
                     </div><!-- /.icon-block -->
                     <h3><a href="#">Atendimento <br> Personalizado</a></h3>
                     <p>A nossa equipe está pronta para te atender e instruir sempre que você precisar.</p>
@@ -40,7 +40,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1000ms">
                     <div class="icon-block">
-                        <i class="cameron-icon-safe-box"></i>
+                        <i class="fa fa-users"></i>
                     </div><!-- /.icon-block -->
                     <h3><a href="#">Milhares de <br> Clientes</a></h3>
                     <p>Nada melhor do que escolher um serviço que já é aprovado por muitos consumidores.</p>
@@ -51,7 +51,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="0ms">
                     <div class="icon-block">
-                        <i class="cameron-icon-temperature"></i>
+                        <i class="fa fa-trophy"></i>
                     </div><!-- /.icon-block -->
                     <h3><a href="#">Estamos presente <br> em todo o País</a></h3>
                     <p>Os nossos consultores estão espalhados por todo o território nacional, prontos para te atender.</p>
@@ -61,7 +61,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="500ms">
                     <div class="icon-block">
-                        <i class="cameron-icon-briefcase"></i>
+                        <i class="fa fa-handshake-o"></i>
                     </div><!-- /.icon-block -->
                     <h3><a href="#">Seguradoras</a></h3>
                     <p>Parceria com as melhores seguradoras do mercado. Trabalhamos com as melhores para oferecer o que há de melhor no mercado aos nossos amigos clientes.</p>
@@ -71,7 +71,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1000ms">
                     <div class="icon-block">
-                        <i class="cameron-icon-safe-box"></i>
+                        <i class="fa fa-mobile"></i>
                     </div><!-- /.icon-block -->
                     <h3><a href="#">Tecnologia</a></h3>
                     <p>Tecnologia de última geração para trazer o que há de novo, contemporâneo e usual no mercado de seguros. Trabalhamos para sempre estarmos antenados e atualizados com as mudanças tecnológicas do Mundo.</p>

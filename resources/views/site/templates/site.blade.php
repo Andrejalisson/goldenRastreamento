@@ -15,7 +15,7 @@
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/responsive.css">
-    <link rel="stylesheet" href="/plugins/fontawesome/css/all.css">
+
     @yield('css')
 </head>
 
@@ -98,7 +98,7 @@
                                 </a>
                                 <p>Há mais de uma década ajudamos pessoas a viverem tranquilamente. Garantimos segurança com confiabilidade. Mantemos o foco na qualidade do atendimento e contribuímos para um mundo mais seguro.</p>
                                 <div class="social-block">
-                                    <a href="https://pt-br.facebook.com/GrupoGoldenService/" target="_blank"><i class="fa fa-facebook-f"></i></a>
+                                    <a href="https://pt-br.facebook.com/GrupoGoldenService/" target="_blank"><i class="fa fa-facebook"></i></a>
                                     <a href="https://www.instagram.com/golden_service/" target="_blank"><i class="fa fa-instagram"></i></a>
                                     <a href="https://youtube.com/channel/UCFJ-1FYY252OQTUdqcHOvew" target="_blank"><i class="fa fa-youtube"></i></a>
                                 </div>
