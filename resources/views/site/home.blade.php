@@ -44,7 +44,7 @@
                                 <i class="fa fa-trophy"></i>
                             </div>
                             <h3><a href="#">Empresa de<br>Propósito</a></h3>
-                            <p>Há mais de 11 anos nosso propósito é ajudar você a ter uma vida com mais segurança e tranquilidade.</p>
+                            <p>Há mais de 10 anos nosso propósito é ajudar você a ter uma vida com mais segurança e tranquilidade.</p>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
                                 <span class="tag-line">Sobre a Golden Service</span><!-- /.tag-line -->
                                 <h2>Desde 2008</h2>
                             </div><!-- /.title-block -->
-                            <p>Com mais de 11 anos de existência, a Golden Service vem garantindo segurança, com confiabilidade para os seus clientes. Com foco na qualidade do atendimento, contribuímos para o aumento da segurança daquilo que é importante para você.</p>
+                            <p>Com mais de 10 anos de existência, a Golden Service vem garantindo segurança, com confiabilidade para os seus clientes. Com foco na qualidade do atendimento, contribuímos para o aumento da segurança daquilo que é importante para você.</p>
 
                             <a href="#" class="more-btn">Entrar em contato</a>
                         </div><!-- /.content-block -->
