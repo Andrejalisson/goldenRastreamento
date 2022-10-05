@@ -41,7 +41,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1000ms">
                             <div class="icon-block">
-                                <i class="fa-duotone fa-truck-tow"></i>
+                                <i class="fa fa-trophy"></i>
                             </div>
                             <h3><a href="#">Empresa de<br>Propósito</a></h3>
                             <p>Há mais de 11 anos nosso propósito é ajudar você a ter uma vida com mais segurança e tranquilidade.</p>
