@@ -26,7 +26,7 @@
                                 <i class="fa fa-headphones"></i>
                             </div>
                             <h3><a href="#">Atendimento<br>Diferenciado</a></h3>
-                            <p>Suscamos sempre adaptar nosso atendimento de acordo com as necessidades dos nossos clientes, com objetivo de entregar soluções ainda mais adequadas e pontuais.</p>
+                            <p>Buscamos sempre adaptar nosso atendimento de acordo com as necessidades dos nossos clientes, com objetivo de entregar soluções ainda mais adequadas e pontuais.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
