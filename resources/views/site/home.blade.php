@@ -23,7 +23,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="0ms">
                             <div class="icon-block">
-                                <i class="fa fa-map-marker" aria-hidden="true"></i>
+                                <i class="fa fa-headphones"></i>
                             </div>
                             <h3><a href="#">Atendimento<br>Diferenciado</a></h3>
                             <p>buscamos sempre adaptar nosso atendimento de acordo com as necessidades dos nossos clientes, com objetivo de entregar soluções ainda mais adequadas e pontuais.</p>
