@@ -26,7 +26,7 @@
                                 <i class="fa fa-headphones"></i>
                             </div>
                             <h3><a href="#">Atendimento<br>Diferenciado</a></h3>
-                            <p>buscamos sempre adaptar nosso atendimento de acordo com as necessidades dos nossos clientes, com objetivo de entregar soluções ainda mais adequadas e pontuais.</p>
+                            <p>Suscamos sempre adaptar nosso atendimento de acordo com as necessidades dos nossos clientes, com objetivo de entregar soluções ainda mais adequadas e pontuais.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -35,7 +35,7 @@
                                 <i class="fa fa-handshake-o" aria-hidden="true"></i>
                             </div>
                             <h3><a href="#">Soluções<br>Inteligentes</a></h3>
-                            <p>sempre pensando em tornar sua vida mais tranquila, oferecemos rastreamento, assistência veicular 24h, seguro veicular, e a  bateria Moura com as melhores condições de compra!</p>
+                            <p>Sempre pensando em tornar sua vida mais tranquila, oferecemos rastreamento, assistência veicular 24h, seguro veicular, e a  bateria Moura com as melhores condições de compra!</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
