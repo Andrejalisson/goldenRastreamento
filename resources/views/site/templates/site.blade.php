@@ -15,7 +15,6 @@
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/responsive.css">
-
     @yield('css')
 </head>
 
@@ -28,26 +27,27 @@
                 <div class="container">
                     <div class="left-info">
                         <p><i class="cameron-icon-email"></i><a href="mailto:contato@grupogoldenservice.com.br">contato@grupogoldenservice.com.br</a></p>
-                    </div>
-                    <div class="right-info" style="margin-top: 12px;">
+                    </div><!-- /.left-info -->
+                    <div class="right-info">
                         <ul class="info-block">
                             <li><i class="cameron-icon-support"></i><a href="tel:+558530650917">(85) 3065-0917</a></li>
                         </ul>
-                    </div>
-                </div>
-            </div>
+                    </div><!-- /.right-info -->
+                </div><!-- /.container -->
+            </div><!-- /.top-header -->
             <nav class="navbar navbar-expand-lg navbar-light header-navigation stricky">
                 <div class="container clearfix">
+                    <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="logo-box clearfix">
                         <a class="navbar-brand" href="/">
-                            <img src="/images/resources/logo-1-1.png" class="main-logo" alt="Golden Service"/>
-                            <img src="/images/resources/logo-1-2.png" class="stricky-logo" alt="Golden Service"/>
+                            <img src="/images/resources/logo-1-1.png" class="main-logo" alt="Fortech GPS LOGO"/>
+                            <img src="/images/resources/logo-1-2.png" class="stricky-logo" alt="Fortech GPS LOGO"/>
                         </a>
-                        <button class="menu-toggler" data-target=".header-style-two .main-navigation">
+                        <button class="menu-toggler" data-target=".header-style-one .main-navigation">
                             <span class="fa fa-bars"></span>
                         </button>
-                    </div>
-
+                    </div><!-- /.logo-box -->
+                    <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="main-navigation">
                         <ul class=" navigation-box">
                             <li class="current"><a href="/">Home</a></li>
@@ -73,17 +73,17 @@
                                 </ul><!-- /.sub-menu -->
                             </li>
                         </ul>
-                    </div>
+                    </div><!-- /.navbar-collapse -->
                     <div class="right-side-box">
                         <div class="social">
                             <a href="https://pt-br.facebook.com/GrupoGoldenService/" target="_blank"><i class="fa fa-facebook-f"></i></a>
                             <a href="https://www.instagram.com/golden_service/" target="_blank"><i class="fa fa-instagram"></i></a>
                             <a href="https://youtube.com/channel/UCFJ-1FYY252OQTUdqcHOvew" target="_blank"><i class="fa fa-youtube"></i></a>
-                        </div>
-                    </div>
+                    </div><!-- /.right-side-box -->
                 </div>
+                <!-- /.container -->
             </nav>
-        </header>
+        </header><!-- /.main-header header-style-one -->
 
         @yield('corpo')
 
