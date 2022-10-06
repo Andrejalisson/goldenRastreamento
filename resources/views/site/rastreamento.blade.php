@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="image-block">
-                    <img src="/images/resources/rastreamento1.jpg" alt="Awesome Image" />
+                    <img src="/images/resources/rastreamento1.jpg" style="max-width: 100%" alt="Awesome Image" />
                 </div>
             </div>
             <div class="col-lg-6 d-flex">
@@ -36,9 +36,9 @@
                 <div class="content-block my-auto">
                     <div class="title-block">
                         <span class="tag-line">#VemPraGolden</span>
-                        <h2>Rastreamento Veicular</h2>
+                        <h2>O melhor plano para você</h2>
                     </div><!-- /.title-block -->
-                    <p>Rastreamento da Golden Service, mais segurança para você e proteção para o seu veículo. Com o rastreamento você poderá saber a localização do seu veículo em qualquer hora do dia, e, em caso de roubo ou furto facilita a localização e a recuperação</p><br>
+                    <p>Encontre um plano de rastreamento veicular que atenda a sua necessidade e perfil.<br>Com plano TOP você tem segurança completa e muito mais tranquilidade, pois diferente do plano ECONÔMICO, você conta com uma central 0800 24h, equipe de resgate do veículo em caso de roubo/furto, e muito mais benefícios! Já o plano ECONÔMICO é ideal para quem quer mais autonomia, você mesmo faz a proteção do seu veículo por meio do nosso app de monitoramento, ative alertas antifurto, bloqueie e desbloqueie, consulte trajetos tudo pelo seu celular ou computador!</p><br>
                 </div><!-- /.content-block -->
             </div><!-- /.col-lg-6 -->
             <div class="col-lg-6">
@@ -52,7 +52,7 @@
 <section class="pricing-style-one pricing-page">
     <div class="container">
         <div class="title-block text-center ">
-            <span class="tag-line">Planning</span><!-- /.tag-line -->
+            <span class="tag-line">NOSSOS PLANOS</span><!-- /.tag-line -->
             <h2>Pricing Table</h2>
             <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt <br> mollit anim id est laborum.</p>
         </div><!-- /.title-block -->
@@ -60,7 +60,6 @@
             <div class="col-lg-6">
                 <div class="single-pricing-style-one text-center popular-pricing wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="500ms" >
                     <div class="top-block">
-                        <p>Plano TOP</p>
                         <h3>TOP</h3>
                         <span class="price">R$70,00<small>(carro)</small></span><br>
                         <span class="price">R$65,00<small>(Moto)</small></span><br>
@@ -84,8 +83,7 @@
             <div class="col-lg-6">
                 <div class="single-pricing-style-one text-center  wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="0ms">
                     <div class="top-block">
-                        <p>Plano Econômico</p>
-                        <h3>Econômico</h3>
+                        <h3>ECONÔMICO</h3>
                         <span class="price">R$55,00<small>(carro)</small></span><br>
                         <span class="price">R$50,00<small>(Moto)</small></span><br>
                     </div><!-- /.top-block -->

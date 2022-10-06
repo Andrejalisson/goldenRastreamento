@@ -119,7 +119,7 @@
                 <div class="upper-block">
                     <div class="title-block">
                         <span class="tag-line">Serviços</span><!-- /.tag-line -->
-                        <h2>Service We Provide</h2>
+                        <h2>O que oferecemos?</h2>
                     </div><!-- /.title-block -->
                     <div class="carousel-btn-block service-carousel-btn">
                         <span class="carousel-btn left-btn"><i class="cameron-icon-left-arrow"></i></span>

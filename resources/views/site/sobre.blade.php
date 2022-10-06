@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="image-block">
-                    <img src="/images/resources/video-1-1.png" alt="Awesome Image" />
+                    <img src="/images/resources/story-1-1.png" style="max-width: 100%" alt="Awesome Image" />
                 </div>
             </div>
             <div class="col-lg-6 d-flex">
