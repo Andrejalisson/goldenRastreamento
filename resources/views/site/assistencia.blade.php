@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="image-block">
-                    <img src="/images/resources/rastreamento1.jpg" style="max-width: 100%" alt="Awesome Image" />
+                    <img src="/images/resources/assistencia.jpg" style="max-width: 100%" alt="Awesome Image" />
                 </div>
             </div>
             <div class="col-lg-6 d-flex">
