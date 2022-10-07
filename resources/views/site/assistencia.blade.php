@@ -21,9 +21,9 @@
                 <div class="content-block my-auto">
                     <div class="title-block">
                         <span class="tag-line">#VemPraGolden</span>
-                        <h2>Rastreamento Veicular</h2>
+                        <h2>Assistência Veicular 24h</h2>
                     </div><!-- /.title-block -->
-                    <p>Rastreamento da Golden Service, mais segurança para você e proteção para o seu veículo. Com o rastreamento você poderá saber a localização do seu veículo em qualquer hora do dia, e, em caso de roubo ou furto facilita a localização e a recuperação</p><br>
+                    <p>Temos solução para os imprevistos com seu veículo! Na Golden Service você pode ter uma uma assistência veicular emergencial completa com cobertura em todo território nacional e disponível 24h por dia!</p><br>
                 </div><!-- /.content-block -->
             </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
@@ -42,8 +42,8 @@
                     <div class="icon-block">
                         <i class="fa fa-calculator"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">Preços  <br> Imbatíveis</a></h3>
-                    <p>Com a nossa excelente gama de seguradoras e acordos diferenciados, conseguimos preços imbatíveis para você.</p>
+                    <h3><a href="#">REBOQUE</a></h3>
+                    <p>Transferência do veículo até a oficina mais próxima ou até algum local indicado pelo condutor com limite de 200km.</p>
                     <a href="#" class="more-link">Contratar</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
@@ -52,8 +52,8 @@
                     <div class="icon-block">
                         <i class="fa fa-headphones"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">Atendimento <br> Personalizado</a></h3>
-                    <p>A nossa equipe está pronta para te atender e instruir sempre que você precisar.</p>
+                    <h3><a href="#">PANE SECA</a></h3>
+                    <p>Envio de reboque para locomover o veículo até posto de combustível mais próximo</p>
                     <a href="#" class="more-link">Contratar</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
@@ -62,42 +62,33 @@
                     <div class="icon-block">
                         <i class="fa fa-users"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">Milhares de <br> Clientes</a></h3>
-                    <p>Nada melhor do que escolher um serviço que já é aprovado por muitos consumidores.</p>
+                    <h3><a href="#">TROCA DE PNEU FURADO</a></h3>
+                    <p>Envio de um profissional para troca de pneus. Pode ser uma simples troca do pneu (com equipamentos do cliente) ou reboque até o borracheiro mais próximo.</p>
                     <a href="#" class="more-link">Contratar</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
 
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-6 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="0ms">
                     <div class="icon-block">
                         <i class="fa fa-trophy"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">Estamos presente <br> em todo o País</a></h3>
-                    <p>Os nossos consultores estão espalhados por todo o território nacional, prontos para te atender.</p>
+                    <h3><a href="#">CHAVEIRO</a></h3>
+                    <p>Um profissional será acionado para abertura do veículo, desde que seja tecnicamente possível. <br><small>(sem confecção de uma chave)</small></p>
                     <a href="#" class="more-link">Contratar</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-6 col-md-6">
                 <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="500ms">
                     <div class="icon-block">
                         <i class="fa fa-handshake-o"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">Seguradoras</a></h3>
-                    <p>Parceria com as melhores seguradoras do mercado. Trabalhamos com as melhores para oferecer o que há de melhor no mercado aos nossos amigos clientes.</p>
+                    <h3><a href="#">ATENDIMENTO 0800 24H</a></h3>
+                    <p>Você ainda pode contar com nossa central de atendimento 0800 com ligação gratuita disponível 24h por dia para solicitar os serviços de assistência veicular</p>
                     <a href="#" class="more-link">Contratar</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
-            <div class="col-lg-4 col-md-6">
-                <div class="single-offer-style-one wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="1000ms">
-                    <div class="icon-block">
-                        <i class="fa fa-mobile"></i>
-                    </div><!-- /.icon-block -->
-                    <h3><a href="#">Tecnologia</a></h3>
-                    <p>Tecnologia de última geração para trazer o que há de novo, contemporâneo e usual no mercado de seguros. Trabalhamos para sempre estarmos antenados e atualizados com as mudanças tecnológicas do Mundo.</p>
-                    <a href="#" class="more-link">Contratar</a>
-                </div><!-- /.single-offer-style-one -->
-            </div><!-- /.col-lg-3 -->
+
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section><!-- /.offer-style-one -->
