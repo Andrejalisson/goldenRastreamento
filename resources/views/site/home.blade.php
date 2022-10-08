@@ -60,7 +60,7 @@
                                 <span class="tag-line">Sobre a Golden Service</span><!-- /.tag-line -->
                                 <h2>Desde 2008</h2>
                             </div><!-- /.title-block -->
-                            <p>Com mais de 10 anos de existência, a Golden Service vem garantindo segurança, com confiabilidade para os seus clientes. Com foco na qualidade do atendimento, contribuímos para o aumento da segurança daquilo que é importante para você.</p>
+                            <p>Com mais de 10 anos de existência, a Golden Service vem garantindo segurança, com confiabilidade para os seus clientes. Com foco na qualidade do atendimento, contribuímos para o aumento da segurança daquilo que é importante para você.</p><br>
 
                             <a href="#" class="more-btn">Entrar em contato</a>
                         </div><!-- /.content-block -->

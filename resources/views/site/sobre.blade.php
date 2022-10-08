@@ -24,7 +24,7 @@
                         <h2>+ de 10 anos de Experiência</h2>
                     </div><!-- /.title-block -->
                     <p>Segurança, confiabilidade e atendimento personalizado são os diferenciais que norteiam o nosso trabalho. Somos sua melhor escolha quando o assunto for segurança.</p><br>
-                    <p>Há mais de 10 anos garantimos segurança com confiabilidade. Com foco na qualidade do atendimento, contribuímos para o aumento da qualidade de vida. Com atitude inovadora, postura ética e transparente em tudo o que fazemos. Estamos prontos para atender as necessidades do mercado, gerando economia e satisfação. Golden Service, sua vida mais segura.</p>
+                    <p>Há mais de 10 anos garantimos segurança com confiabilidade. Com foco na qualidade do atendimento, contribuímos para o aumento da qualidade de vida. Com atitude inovadora, postura ética e transparente em tudo o que fazemos. Estamos prontos para atender as necessidades do mercado, gerando economia e satisfação. Golden Service, sua vida mais segura.</p><br>
                     <a href="#" class="more-btn">Solicitar Orçamento</a>
                 </div><!-- /.content-block -->
             </div><!-- /.col-lg-6 -->
