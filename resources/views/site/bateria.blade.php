@@ -14,16 +14,22 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="image-block">
-                    <img src="/images/resources/rastreamento1.jpg" style="max-width: 100%" alt="Awesome Image" />
+                    <img src="/images/resources/bateria.jpg" style="max-width: 100%" alt="Awesome Image" />
                 </div>
             </div>
             <div class="col-lg-6 d-flex">
                 <div class="content-block my-auto">
                     <div class="title-block">
                         <span class="tag-line">#VemPraGolden</span>
-                        <h2>Rastreamento Veicular</h2>
+                        <h2>A ENERGIA DO SEU VEÍCULO ESTÁ AQUI</h2>
                     </div><!-- /.title-block -->
-                    <p>Rastreamento da Golden Service, mais segurança para você e proteção para o seu veículo. Com o rastreamento você poderá saber a localização do seu veículo em qualquer hora do dia, e, em caso de roubo ou furto facilita a localização e a recuperação</p><br>
+                    <p>Precisando trocar a bateria do seu veículo? A bateria chegou ao fim da vida útil?<br>Temos parceria forte com a marca de baterias Moura e oferecemos a bateria mais vendida do país e a melhor para seu veículo! Confira nossas principais vantagens:</p>
+                    <i class="fa fa-check-square-o"></i> Até 12 meses de garantia (moto 6 meses/carro 12 meses) <br>
+                    <i class="fa fa-check-square-o"></i> Programa de 1 troca de bateria no ano pra cliente Golden Service consulte as condições <br>
+                    <i class="fa fa-check-square-o"></i> Desconto especial para quem é cliente da Golden Service <br>
+                    <i class="fa fa-check-square-o"></i> Melhores condições de pagamento <br>
+                    <i class="fa fa-check-square-o"></i> Instalação na residência sem custo <br><br>
+                    <a href="#" class="more-btn">Adquira a sua hoje mesmo!</a>
                 </div><!-- /.content-block -->
             </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
