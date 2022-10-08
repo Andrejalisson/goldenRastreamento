@@ -2838,7 +2838,7 @@ a:visited {
 .pricing-style-one .title-block .tag-line {
   display: inline-block;
   vertical-align: middle;
-  color: #ffde00;
+  color: #000;
   font-size: 20px;
   font-weight: 500;
   line-height: 1em;
@@ -2849,7 +2849,7 @@ a:visited {
   vertical-align: middle;
   width: 50px;
   height: 2px;
-  background-color: #ffde00;
+  background-color: #000;
 }
 .pricing-style-one .title-block .tag-line::before {
   margin-right: 20px;

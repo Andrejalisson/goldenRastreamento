@@ -53,8 +53,6 @@
     <div class="container">
         <div class="title-block text-center ">
             <span class="tag-line">NOSSOS PLANOS</span><!-- /.tag-line -->
-            <h2>Pricing Table</h2>
-            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt <br> mollit anim id est laborum.</p>
         </div><!-- /.title-block -->
         <div class="row">
             <div class="col-lg-6">
