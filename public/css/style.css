@@ -394,14 +394,14 @@ a:visited {
   display: inline-block;
   vertical-align: middle;
   font-size: 24px;
-  color: #333;
+  color: #000;
   margin-right: 15px;
 }
 .main-header .top-header .left-info p {
   padding: 12px 0;
 }
 .main-header .top-header .left-info a {
-  color: #333;
+  color: #000;
   font-size: 13px;
   font-family: poppins, sans-serif;
   font-weight: 400;
@@ -411,7 +411,7 @@ a:visited {
   color: #000;
 }
 .main-header .top-header .right-info a {
-  color: #333;
+  color: #000;
   font-size: 17px;
   font-family: poppins, sans-serif;
   font-weight: 600;
@@ -614,7 +614,7 @@ a:visited {
 }
 .banner-style-one .banner-title {
   margin: 0;
-  color: #333;
+  color: #000;
   font-size: 60px;
   font-weight: 500;
   margin-bottom: 20px;
@@ -627,7 +627,7 @@ a:visited {
   font-weight: 700;
 }
 .banner-style-one p {
-  color: #333;
+  color: #000;
   font-size: 18px;
   font-weight: 400;
   font-family: poppins, sans-serif;
@@ -650,7 +650,7 @@ a:visited {
   font-size: 16px;
   color: #FFFFFF;
   letter-spacing: .035em;
-  background-color: #333;
+  background-color: #000;
   padding: 17px 0;
   padding-left: 50px;
   padding-right: 50px;
@@ -783,7 +783,7 @@ a:visited {
   margin-right: -5px;
 }
 .site-footer .footer-widget .gallery-wrapper .single-gallery-item {
-  width: 33.33333%;
+  width: 33.00033%;
   float: left;
   padding: 5px;
 }
@@ -889,7 +889,7 @@ a:visited {
 -6 brands styles
 */
 .brands-area-one {
-  background-color: #333;
+  background-color: #000;
   padding: 24px 0;
 }
 .brands-area-one.home-two {
@@ -1414,7 +1414,7 @@ a:visited {
 .working-process-one .title-block .tag-line {
   display: inline-block;
   vertical-align: middle;
-  color: #333;
+  color: #000;
   font-size: 20px;
   font-weight: 500;
   line-height: 1em;
@@ -1425,7 +1425,7 @@ a:visited {
   vertical-align: middle;
   width: 50px;
   height: 2px;
-  background-color: #333;
+  background-color: #000;
 }
 .working-process-one .title-block .tag-line::before {
   margin-right: 20px;
@@ -1487,7 +1487,7 @@ a:visited {
 .testimonials-style-one .title-block .tag-line {
   display: inline-block;
   vertical-align: middle;
-  color: #333;
+  color: #000;
   font-size: 20px;
   font-weight: 500;
   line-height: 1em;
@@ -1498,7 +1498,7 @@ a:visited {
   vertical-align: middle;
   width: 50px;
   height: 2px;
-  background-color: #333;
+  background-color: #000;
 }
 .testimonials-style-one .title-block .tag-line::before {
   margin-right: 20px;
@@ -1521,7 +1521,7 @@ a:visited {
   margin: 0;
   padding: 0;
   background-color: #ebf0eb;
-  color: #333;
+  color: #000;
   font-size: 25px;
   text-align: center;
   transition: all .4s ease;
@@ -1561,7 +1561,7 @@ a:visited {
   margin-left: 25px;
 }
 .testimonials-style-one .owl-dots .owl-dot.active span {
-  background-color: #333;
+  background-color: #000;
 }
 .testimonials-style-one .single-testimonials-one {
   width: 100%;
@@ -1956,7 +1956,7 @@ a:visited {
 .service-style-one .title-block .tag-line {
   display: inline-block;
   vertical-align: middle;
-  color: #333;
+  color: #000;
   font-size: 20px;
   font-weight: 500;
   line-height: 1em;
@@ -1967,7 +1967,7 @@ a:visited {
   vertical-align: middle;
   width: 50px;
   height: 2px;
-  background-color: #333;
+  background-color: #000;
 }
 .service-style-one .title-block .tag-line::before {
   margin-right: 20px;
@@ -2304,7 +2304,7 @@ a:visited {
 .mission-style-one .single-mission-one .count-block {
   font-size: 26px;
   font-weight: 500;
-  color: #333;
+  color: #000;
 }
 .mission-style-one .single-mission-one .count-block:before {
   content: '';
@@ -2312,7 +2312,7 @@ a:visited {
   vertical-align: middle;
   width: 30px;
   height: 2px;
-  background-color: #333;
+  background-color: #000;
 }
 .mission-style-one .single-mission-one h3,
 .mission-style-one .single-mission-one p {
@@ -2354,7 +2354,7 @@ a:visited {
 .about-style-one .title-block .tag-line {
   display: inline-block;
   vertical-align: middle;
-  color: #333;
+  color: #000;
   font-size: 20px;
   font-weight: 500;
   line-height: 1em;
@@ -2365,7 +2365,7 @@ a:visited {
   vertical-align: middle;
   width: 50px;
   height: 2px;
-  background-color: #333;
+  background-color: #000;
 }
 .about-style-one .title-block .tag-line::before {
   margin-right: 20px;
@@ -2458,7 +2458,7 @@ a:visited {
 .about-style-two .title-block .tag-line {
   display: inline-block;
   vertical-align: middle;
-  color: #ffde00;
+  color: #000;
   font-size: 20px;
   font-weight: 500;
   line-height: 1em;
@@ -2469,7 +2469,7 @@ a:visited {
   vertical-align: middle;
   width: 50px;
   height: 2px;
-  background-color: #ffde00;
+  background-color: #000;
 }
 .about-style-two .title-block .tag-line::before {
   margin-right: 20px;
@@ -2617,7 +2617,7 @@ a:visited {
 .offer-style-one .title-block .tag-line {
   display: inline-block;
   vertical-align: middle;
-  color: #333;
+  color: #000;
   font-size: 20px;
   font-weight: 500;
   line-height: 1em;
@@ -2628,7 +2628,7 @@ a:visited {
   vertical-align: middle;
   width: 50px;
   height: 2px;
-  background-color: #333;
+  background-color: #000;
 }
 .offer-style-one .title-block .tag-line::before {
   margin-right: 20px;
@@ -2647,7 +2647,7 @@ a:visited {
 }
 .single-offer-style-one .icon-block i {
   font-size: 57px;
-  color: #333;
+  color: #000;
 }
 .single-offer-style-one h3 {
   margin: 0;
@@ -3225,7 +3225,7 @@ a:visited {
 .contact-form-wrapper .contact-form-block .title-block .tag-line {
   display: inline-block;
   vertical-align: middle;
-  color: #ffde00;
+  color: #000;
   font-size: 20px;
   font-weight: 500;
   line-height: 1em;
@@ -3236,7 +3236,7 @@ a:visited {
   vertical-align: middle;
   width: 50px;
   height: 2px;
-  background-color: #ffde00;
+  background-color: #000;
 }
 .contact-form-wrapper .contact-form-block .title-block .tag-line::before {
   margin-right: 20px;
@@ -3467,7 +3467,7 @@ a:visited {
 }
 .sidebar .single-sidebar .insta-post-wrapper .single-insta {
   display: block;
-  width: 33.3333%;
+  width: 33.0003%;
   padding: 5px 5px;
   float: left;
 }
@@ -4817,7 +4817,7 @@ a:visited {
 }
 
 .checkout-section.cart-section .bottom .totals-table li span.col.col-title {
-  color: #333333;
+  color: #000000;
 }
 
 .checkout-section.cart-section .bottom .totals-table li span.col,
@@ -4826,7 +4826,7 @@ a:visited {
 }
 
 .checkout-section .payment-options .option-block .radio-block label.radio-label {
-  color: #333333;
+  color: #000000;
 }
 
 .checkout-section .payment-options .option-block .radio-block.active .icon i,
