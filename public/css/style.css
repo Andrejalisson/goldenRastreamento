@@ -724,6 +724,7 @@ a:visited {
 }
 .site-footer .footer-widget p {
   margin: 0;
+  text-align: justify;
   color: #B7BBC1;
 }
 .site-footer .footer-widget .links-lists {
@@ -1587,6 +1588,7 @@ a:visited {
 }
 .testimonials-style-one .single-testimonials-one p {
   color: #777777;
+  text-align: justify;
   line-height: 28px;
   font-size: 17px;
   margin-top: 35px;
@@ -2090,6 +2092,7 @@ a:visited {
 }
 .single-service-one .text-block p {
   color: #848484;
+  text-align: justify;
   font-size: 15px;
   line-height: 26px;
   margin-bottom: 30px;
@@ -2383,6 +2386,7 @@ a:visited {
 }
 .about-style-one p {
   font-size: 16px;
+  text-align: justify;
   margin: 0;
 }
 .about-style-one .more-btn {
@@ -2487,6 +2491,7 @@ a:visited {
 }
 .about-style-two p {
   font-size: 16px;
+  text-align: justify;
   margin: 0;
 }
 .about-style-two .more-btn {
@@ -2660,6 +2665,7 @@ a:visited {
 }
 .single-offer-style-one p {
   color: #848484;
+  text-align: justify;
   font-size: 15px;
   line-height: 26px;
   margin: 0;
