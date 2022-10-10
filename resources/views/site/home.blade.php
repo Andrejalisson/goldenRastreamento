@@ -130,24 +130,24 @@
                     <div class="item">
                         <div class="single-service-one">
                             <div class="image-block">
-                                <img src="images/services/service-1-1.jpg" alt="Awesome Image" />
+                                <img src="images/services/service-1-1.jpg" alt="Imagem de rastreamento" />
                             </div><!-- /.image-block -->
                             <div class="text-block">
-                                <h3><a href="services.html">Rastreamento Veicular</a></h3>
+                                <h3><a href="/Servico/RastreamentoVeicular">Rastreamento Veicular</a></h3>
                                 <p>Com nossa tecnologia de rastreamento para veículos, você pode saber a localização, bloquear/desbloquear, e contar com alertas antifurto, que podem ser ativados no app baixado no seu celular.   Receba uma notificação quando seu veículo tiver a ignição ligada ou quando ultrapassar uma distância de 100 m. Em caso de roubo ou furto, o rastreamento facilita a localização e a recuperação. Garantimos a você menos preocupação e mais segurança com seu bem.</p>
-                                <a href="#" class="more-btn">Ver mais.</a><!-- /.more-btn -->
+                                <a href="/Servico/RastreamentoVeicular" class="more-btn">Ver mais.</a><!-- /.more-btn -->
                             </div><!-- /.text-block -->
                         </div><!-- /.single-service-one -->
                     </div><!-- /.col-lg-4 -->
                     <div class="item">
                         <div class="single-service-one">
                             <div class="image-block">
-                                <img src="images/services/service-1-2.jpg" alt="Awesome Image" />
+                                <img src="images/services/service-1-2.jpg" alt="Imagem de Seguro veicular" />
                             </div><!-- /.image-block -->
                             <div class="text-block">
-                                <h3><a href="services.html">Seguro</a></h3>
+                                <h3><a href="/Servico/Seguro">Seguro</a></h3>
                                 <p>Somos franqueado da Bidon Corretora de Seguros autorizada pela SUSEP, e por meio dela, temos parceria com mais de 30 seguradoras do país! Permitindo encontrarmos um seguro para seu veículo que atenda as suas necessidades e ao seu bolso!</p>
-                                <a href="#" class="more-btn">Ver mais.</a><!-- /.more-btn -->
+                                <a href="/Servico/Seguro" class="more-btn">Ver mais.</a><!-- /.more-btn -->
                             </div><!-- /.text-block -->
                         </div><!-- /.single-service-one -->
                     </div><!-- /.col-lg-4 -->
@@ -157,9 +157,9 @@
                                 <img src="images/services/service-1-3.jpg" alt="Awesome Image" />
                             </div><!-- /.image-block -->
                             <div class="text-block">
-                                <h3><a href="services.html">Assistência Veicular 24h</a></h3>
+                                <h3><a href="/Servico/AssistenciaVeicular">Assistência Veicular 24h</a></h3>
                                 <p>Por todo o Brasil e com funcionamento 24 horas por dia, você pode contar com soluções para imprevistos com seu veículo, como: Reboque, Chaveiro, Mecânico, Troca de Pneu Furado e muito mais! Além disso, conte com uma central 0800 de atendimento 24h/7dias.</p>
-                                <a href="#" class="more-btn">Ver mais.</a><!-- /.more-btn -->
+                                <a href="/Servico/AssistenciaVeicular" class="more-btn">Ver mais.</a><!-- /.more-btn -->
                             </div><!-- /.text-block -->
                         </div><!-- /.single-service-one -->
                     </div><!-- /.col-lg-4 -->
@@ -169,9 +169,9 @@
                                 <img src="images/services/service-1-4.jpg" alt="Awesome Image" />
                             </div><!-- /.image-block -->
                             <div class="text-block">
-                                <h3><a href="services.html">Bateria Moura</a></h3>
+                                <h3><a href="/Servico/BateriaMoura">Bateria Moura</a></h3>
                                 <p>Precisando trocar a bateria do seu veículo? Oferecemos a melhor bateria do mercado, e a mais vendida do país! Adquira Bateria Moura  com as melhores condições de pagamento, e se preferir, instalamos em sua residência!</p>
-                                <a href="#" class="more-btn">Ver mais.</a><!-- /.more-btn -->
+                                <a href="/Servico/BateriaMoura" class="more-btn">Ver mais.</a><!-- /.more-btn -->
                             </div><!-- /.text-block -->
                         </div><!-- /.single-service-one -->
                     </div><!-- /.col-lg-4 -->
