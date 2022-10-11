@@ -2882,11 +2882,9 @@ a:visited {
   line-height: 26px;
 }
 .pricing-style-one.pricing-page .single-pricing-style-one.popular-pricing .top-block {
-  background-color: #EBF0EB;
+  background-color: #ffde00;
 }
-.pricing-style-one.pricing-page .single-pricing-style-one.popular-pricing .top-block:before {
-  background-image: url(../images/resources/price-feature-btn-2.png);
-}
+
 
 .single-pricing-style-one.popular-pricing .top-block {
   position: relative;
@@ -2895,7 +2893,6 @@ a:visited {
   content: '';
   width: 39px;
   height: 52px;
-  background-image: url(../images/resources/price-feature-btn.png);
   background-repeat: no-repeat;
   background-position: 0 0;
   position: absolute;
@@ -2910,7 +2907,7 @@ a:visited {
   list-style: none;
 }
 .single-pricing-style-one .top-block {
-  background-color: #EBF0EB;
+  background-color: #000;
   padding: 65px 0;
 }
 .single-pricing-style-one .top-block p {

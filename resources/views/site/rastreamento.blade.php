@@ -59,8 +59,6 @@
                 <div class="single-pricing-style-one text-center popular-pricing wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="500ms" >
                     <div class="top-block">
                         <h3>TOP</h3>
-                        <span class="price">R$70,00<small>(carro)</small></span><br>
-                        <span class="price">R$65,00<small>(Moto)</small></span><br>
                     </div><!-- /.top-block -->
                     <div class="bottom-block">
                         <ul class="feature-list">
@@ -81,9 +79,7 @@
             <div class="col-lg-6">
                 <div class="single-pricing-style-one text-center  wow fadeInUp" data-wow-duration="1300ms" data-wow-delay="0ms">
                     <div class="top-block">
-                        <h3>ECONÔMICO</h3>
-                        <span class="price">R$55,00<small>(carro)</small></span><br>
-                        <span class="price">R$50,00<small>(Moto)</small></span><br>
+                        <h3 style="color: #fff">ECONÔMICO</h3>
                     </div><!-- /.top-block -->
                     <div class="bottom-block">
                         <ul class="feature-list">
