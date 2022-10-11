@@ -111,7 +111,7 @@
                     <h2>Sua Vida Mais Segura</h2>
                 </div><!-- /.title-block -->
                 <p>Com a Golden Service você vive com mais tranquilidade <br>e a certeza de que está protegido</p>
-                <a href="https://wa.me/5585985214611" target="_blank" class="cta-btn">Solicite um orçamento</a>
+                <a href="https://wa.me/5585985214611" target="_blank" class="cta-btn">Saiba mais</a>
             </div><!-- /.container -->
         </section><!-- /.cta-style-one -->
         <section class="service-style-one">
