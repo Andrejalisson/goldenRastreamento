@@ -210,7 +210,7 @@
                                 <img src="images/resources/testi1-3.jpg" alt="awesome image">
                             </div><!-- /.image-block -->
                             <p>Eu me sinto mais segura, maravilhada, e só quero agradecer porquê é um serviço de qualidade! Eu já tenho 1 ano e eu desejo esse tipo de serviço para todo mundo que venha ter condições de ter! É muito seguro, muito bom, a gente fica mais despreocupada! Tem qualidade! Eu nunca tive nenhum tipo de problema. Sempre que alguém está no carro, eu sei onde e como está! É maravilhoso! Tem um atendimento excelente! A nota que dou para essa empresaé 10! Muito obrigada gente! Que vocês continuem com essa qualidade de serviço e esse atendimento maravilhoso!</p>
-                            <h3>Adélia Maria</h3>
+                            <h3>Amélia Santos</h3>
                         </div><!-- /.single-testimonials-one -->
                     </div><!-- /.item -->
                 </div><!-- /.owl-carousel owl-theme testi-carousel-one -->
