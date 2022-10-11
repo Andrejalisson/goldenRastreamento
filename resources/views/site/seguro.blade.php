@@ -9,6 +9,32 @@
         <h2>Seguro</h2>
     </div>
 </section>
+<section class="about-style-two">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="image-block">
+                    <img src="/images/resources/bateria.jpg" style="max-width: 100%" alt="Awesome Image" />
+                </div>
+            </div>
+            <div class="col-lg-6 d-flex">
+                <div class="content-block my-auto">
+                    <div class="title-block">
+                        <span class="tag-line">#VemPraGolden</span>
+                        <h2>A ENERGIA DO SEU VEÍCULO ESTÁ AQUI</h2>
+                    </div><!-- /.title-block -->
+                    <p>Precisando trocar a bateria do seu veículo? A bateria chegou ao fim da vida útil?<br>Temos parceria forte com a marca de baterias Moura e oferecemos a bateria mais vendida do país e a melhor para seu veículo! Confira nossas principais vantagens:</p>
+                    <i class="fa fa-check-square-o"></i> Até 12 meses de garantia (moto 6 meses/carro 12 meses) <br>
+                    <i class="fa fa-check-square-o"></i> Programa de 1 troca de bateria no ano pra cliente Golden Service consulte as condições <br>
+                    <i class="fa fa-check-square-o"></i> Desconto especial para quem é cliente da Golden Service <br>
+                    <i class="fa fa-check-square-o"></i> Melhores condições de pagamento <br>
+                    <i class="fa fa-check-square-o"></i> Instalação na residência sem custo <br><br>
+                    <a href="http://suhai.link/w670" class="more-btn">Faça sua cotação</a>
+                </div><!-- /.content-block -->
+            </div><!-- /.col-lg-6 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section><!-- /.about-style-two -->
 <section class="offer-style-one">
     <div class="container">
         <div class="title-block">
