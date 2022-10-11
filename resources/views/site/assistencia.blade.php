@@ -40,9 +40,9 @@
                     <div class="icon-block">
                         <i class="fa fa-check-square-o"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">REBOQUE</a></h3>
+                    <h3><a href="https://wa.me/5585985214611">REBOQUE</a></h3>
                     <p>Transferência do veículo até a oficina mais próxima ou até algum local indicado pelo condutor com limite de 200km.</p>
-                    <a href="#" class="more-link">Contratar</a>
+                    <a href="https://wa.me/5585985214611" class="more-link">Saiba mais</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
             <div class="col-lg-4 col-md-6">
@@ -50,9 +50,9 @@
                     <div class="icon-block">
                         <i class="fa fa-check-square-o"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">PANE SECA</a></h3>
+                    <h3><a href="https://wa.me/5585985214611">PANE SECA</a></h3>
                     <p>Envio de reboque para locomover o veículo até posto de combustível mais próximo</p>
-                    <a href="#" class="more-link">Contratar</a>
+                    <a href="https://wa.me/5585985214611" class="more-link">Saiba mais</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
             <div class="col-lg-4 col-md-6">
@@ -60,9 +60,9 @@
                     <div class="icon-block">
                         <i class="fa fa-check-square-o"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">TROCA DE PNEU FURADO</a></h3>
+                    <h3><a href="https://wa.me/5585985214611">TROCA DE PNEU FURADO</a></h3>
                     <p>Envio de um profissional para troca de pneus. Pode ser uma simples troca do pneu (com equipamentos do cliente) ou reboque até o borracheiro mais próximo.</p>
-                    <a href="#" class="more-link">Contratar</a>
+                    <a href="https://wa.me/5585985214611" class="more-link">Saiba mais</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
 
@@ -71,9 +71,9 @@
                     <div class="icon-block">
                         <i class="fa fa-check-square-o"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">CHAVEIRO</a></h3>
+                    <h3><a href="https://wa.me/5585985214611">CHAVEIRO</a></h3>
                     <p>Um profissional será acionado para abertura do veículo, desde que seja tecnicamente possível. <br><small>(sem confecção de uma chave)</small></p>
-                    <a href="#" class="more-link">Contratar</a>
+                    <a href="https://wa.me/5585985214611" class="more-link">Saiba mais</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
             <div class="col-lg-6 col-md-6">
@@ -81,9 +81,9 @@
                     <div class="icon-block">
                         <i class="fa fa-check-square-o"></i>
                     </div><!-- /.icon-block -->
-                    <h3><a href="#">ATENDIMENTO 0800 24H</a></h3>
+                    <h3><a href="https://wa.me/5585985214611">ATENDIMENTO 0800 24H</a></h3>
                     <p>Você ainda pode contar com nossa central de atendimento 0800 com ligação gratuita disponível 24h por dia para solicitar os serviços de assistência veicular</p>
-                    <a href="#" class="more-link">Contratar</a>
+                    <a href="https://wa.me/5585985214611" class="more-link">Saiba mais</a>
                 </div><!-- /.single-offer-style-one -->
             </div><!-- /.col-lg-3 -->
 
