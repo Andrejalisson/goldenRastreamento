@@ -75,7 +75,9 @@
                                     @endphp
                                     @break
                                 @default
-
+                                @php
+                                        $servico = false
+                                    @endphp
                             @endswitch
                             <li class="{{ $servico == true ? "current" : "" }}"><a href="#">Serviços</a>
                                 <ul class="sub-menu">
