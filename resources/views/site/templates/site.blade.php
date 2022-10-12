@@ -75,7 +75,7 @@
                                     @endphp
                                     @break
                                 @default
-                                @php
+                                    @php
                                         $servico = false
                                     @endphp
                             @endswitch
