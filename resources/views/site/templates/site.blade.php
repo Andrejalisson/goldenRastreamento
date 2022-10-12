@@ -50,9 +50,34 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="main-navigation">
                         <ul class=" navigation-box">
-                            <li class="current"><a href="/">Home</a></li>
-                            <li><a href="/Sobre">Sobre</a></li>
-                            <li><a href="#">Serviços</a>
+
+                            <li class="{{ $title == "Home" ? "current" : "" }}"><a href="/">Home</a></li>
+                            <li class="{{ $title == "Sobre" ? "current" : "" }}"><a href="/Sobre">Sobre</a></li>
+                            @switch($title)
+                                @case("Rastreamento Veicular")
+                                    @php
+                                        $servico = true
+                                    @endphp
+                                    @break
+                                @case("Seguro")
+                                    @php
+                                        $servico = true
+                                    @endphp
+                                    @break
+                                @case("Bateria Moura")
+                                    @php
+                                        $servico = true
+                                    @endphp
+                                    @break
+                                @case("Assistência Veicular")
+                                    @php
+                                        $servico = true
+                                    @endphp
+                                    @break
+                                @default
+
+                            @endswitch
+                            <li class="{{ $servico == true ? "current" : "" }}"><a href="#">Serviços</a>
                                 <ul class="sub-menu">
                                     <li><a href="/Servico/RastreamentoVeicular">Rastreamento Veicular</a></li>
                                     <li><a href="/Servico/Seguro">Seguro</a></li>
@@ -60,8 +85,8 @@
                                     <li><a href="/Servico/AssistenciaVeicular">Assistência Veicular</a></li>
                                 </ul><!-- /.sub-menu -->
                             </li>
-                            <li><a href="/Contato">Contato</a></li>
-                            <li><a href="#">Área do Cliente</a>
+                            <li class="{{ $title == "contato" ? "current" : "" }}"><a href="/Contato">Contato</a></li>
+                            <li class="{{ $title == "FAQ - Dúvidas Frequentes" ? "current" : "" }}"><a href="#">Área do Cliente</a>
                                 <ul class="sub-menu">
                                     <li><a href="#">Rastreamento</a>
                                         <ul class="sub-menu">
