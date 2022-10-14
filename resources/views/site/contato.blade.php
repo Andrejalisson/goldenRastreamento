@@ -9,7 +9,7 @@
         <h2>Contato</h2>
     </div>
 </section>
-<section class="about-style-one">
+<section class="about-style-two">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 d-flex">
@@ -34,16 +34,11 @@
                         <br> 0800 883 6228</p><br>
                     <h5><i class="fa fa-envelope-o" aria-hidden="true"></i> Email de contato</h5>
                         <p>contato@grupogoldenservice.com.br</p>
-
-
-
-
-
                 </div><!-- /.content-block -->
             </div><!-- /.col-lg-6 -->
             <div class="col-lg-6">
                 <div class="image-block">
-                    <img src="images/resources/story-1-1.png" alt="Awesome Image" />
+                    <img src="images/resources/contato.jpg" alt="Awesome Image" />
                 </div><!-- /.image-block -->
             </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
