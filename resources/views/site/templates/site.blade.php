@@ -98,6 +98,7 @@
                                     </li>
                                     <li><a href="/FAQ">FAQ - Dúvidas Frequentes</a></li>
                                     <li><a target="_blank" href="http://golden.fortechgps.com.br/webmail">WEBMAIL</a></li>
+                                    <li><a target="_blank" href="/Login">ADMINISTRATIVO</a></li>
                                 </ul><!-- /.sub-menu -->
                             </li>
                         </ul>

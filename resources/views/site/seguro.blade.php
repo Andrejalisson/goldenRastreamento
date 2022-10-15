@@ -21,7 +21,7 @@
                 <div class="content-block my-auto">
                     <div class="title-block">
                         <span class="tag-line">#VemPraGolden</span>
-                        <h2>A ENERGIA DO SEU VEÍCULO ESTÁ AQUI</h2>
+                        <h2>Temos o seguro ideal para você</h2>
                     </div><!-- /.title-block -->
                     <p>Somos franqueado da Bidon Corretora de Seguros autorizada pela SUSEP, e por meio dela, temos parceria com mais de 30 seguradoras do país! Permitindo encontrarmos um seguro para seu veículo que atenda as suas necessidades e ao seu bolso!</p><br>
 

@@ -15,7 +15,7 @@
             <div class="col-lg-6 d-flex">
                 <div class="content-block my-auto">
                     <div class="title-block">
-                        <h3>Fale conosco através dos nossos canais de atendimento</h3>
+                        <h3 style="color:#000;">Fale conosco através dos nossos canais de atendimento</h3>
                     </div><!-- /.title-block -->
                     <p>Fale conosco através dos nossos canais de atendimento
                         Se preferir utilize o formulário de contato e envie suas dúvidas, sugestões, elogios, depoimentos e feedbacks para que possamos melhorar cada vez mais.</p>
@@ -31,7 +31,7 @@
                         <p>seg a sex 8h00 - 17h00</p>
                         <p>aos sábados 8h00 - 12h00</p><br>
                     <p><i class="fa fa-phone" aria-hidden="true"></i> Em caso de roubo ou furto e solicitar serviços de assistência veicular 24h (reboque, chaveiro, troca de pneu furado, pane seca), entre em contato com a nossa central 0800 de atendimento 24h
-                        <br> 0800 883 6228</p><br>
+                        <br><i class="fa fa-phone" aria-hidden="true"></i> <strong>0800 883 6228</strong></p><br>
                     <h5><i class="fa fa-envelope-o" aria-hidden="true"></i> Email de contato</h5>
                         <p>contato@grupogoldenservice.com.br</p>
                 </div><!-- /.content-block -->
@@ -57,8 +57,9 @@
                     <div class="contact-form-block my-auto">
                         <div class="title-block">
                             <span class="tag-line">Escreva sua mensagem.</span><!-- /.tag-line -->
+                            <p>Envie suas dúvidas, sugestões, elogios, depoimentos e feedbacks para que possamos melhorar cada vez mais</p>
                         </div><!-- /.title-block -->
-                        <form action="inc/sendemail.php" class="contact-form-one contact-form-validated">
+                        <form action="#" class="contact-form-one contact-form-validated">
                             <input type="text" name="nome" placeholder="Nome">
                             <input type="text" name="email" placeholder="E-Mail">
                             <input type="text" name="telefone" placeholder="Telefone">
