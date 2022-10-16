@@ -2257,7 +2257,7 @@ a:visited {
   border: none;
   outline: none;
   background-color: #ffde00;
-  color: #fff;
+  color: #000;
   font-size: 15px;
   font-weight: 600;
   padding: 12px 30px;
@@ -2269,7 +2269,7 @@ a:visited {
   vertical-align: middle;
   width: 0px;
   height: 2px;
-  background-color: #fff;
+  background-color: #000;
   margin-right: 0px;
   transition: all .4s ease;
 }
@@ -2399,7 +2399,7 @@ a:visited {
   border: none;
   outline: none;
   background-color: #ffde00;
-  color: #fff;
+  color: #000;
   font-size: 15px;
   font-weight: 600;
   padding: 12px 30px;
@@ -2410,7 +2410,7 @@ a:visited {
   vertical-align: middle;
   width: 0px;
   height: 2px;
-  background-color: #fff;
+  background-color: #000;
   margin-right: 0px;
   transition: all .4s ease;
 }
@@ -2515,7 +2515,7 @@ a:visited {
   vertical-align: middle;
   width: 0px;
   height: 2px;
-  background-color: #fff;
+  background-color: #000;
   margin-right: 0px;
   transition: all .4s ease;
 }
@@ -3304,7 +3304,7 @@ a:visited {
   border: none;
   outline: none;
   background-color: #ffde00;
-  color: #fff;
+  color: #000;
   font-size: 15px;
   font-weight: 600;
   padding: 12px 30px;
@@ -3316,7 +3316,7 @@ a:visited {
   vertical-align: middle;
   width: 0px;
   height: 2px;
-  background-color: #fff;
+  background-color: #000;
   margin-right: 0px;
   transition: all .4s ease;
 }

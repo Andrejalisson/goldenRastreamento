@@ -35,8 +35,6 @@
     <div class="container">
         <div class="title-block">
             <h2>Por que escolher a Bidon Golden Service?</h2>
-            <span>Somos franqueado da Bidon Corretora de Seguros autorizada pela SUSEP, e por meio dela, temos parceria com mais de 30 seguradoras do país! Permitindo encontrarmos um seguro para seu veículo que atenda as suas necessidades e ao seu bolso!</span><!-- /.tag-line -->
-
         </div><!-- /.title-block -->
         <div class="row">
             <div class="col-lg-4 col-md-6">

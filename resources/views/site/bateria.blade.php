@@ -25,7 +25,7 @@
                     </div><!-- /.title-block -->
                     <p>Precisando trocar a bateria do seu veículo? A bateria chegou ao fim da vida útil?<br>Temos parceria forte com a marca de baterias Moura e oferecemos a bateria mais vendida do país e a melhor para seu veículo! Confira nossas principais vantagens:</p>
                     <i class="fa fa-check-square-o"></i> Até 12 meses de garantia (moto 6 meses/carro 12 meses) <br>
-                    <i class="fa fa-check-square-o"></i> Programa de 1 troca de bateria no ano pra cliente Golden Service consulte as condições <br>
+                    <i class="fa fa-check-square-o"></i> Programa de 1 troca de bateria no ano pra cliente Golden Service <small>*consulte as condições</small> <br>
                     <i class="fa fa-check-square-o"></i> Desconto especial para quem é cliente da Golden Service <br>
                     <i class="fa fa-check-square-o"></i> Melhores condições de pagamento <br>
                     <i class="fa fa-check-square-o"></i> Instalação na residência sem custo <br><br>
