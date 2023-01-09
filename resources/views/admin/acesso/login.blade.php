@@ -4,7 +4,8 @@
 <div class="d-flex flex-column-fluid flex-lg-row-auto justify-content-center justify-content-lg-end p-12">
     <div class="bg-body d-flex flex-center rounded-4 w-md-600px p-10">
         <div class="w-md-400px">
-            <form class="form w-100" novalidate="novalidate" method="POST" action="/Login">
+            <form class="form w-100" novalidate="novalidate" method="post" action="{{route('login')}}">
+                @csrf
                 <div class="text-center mb-11">
                     <h1 class="text-dark fw-bolder mb-3">Login</h1>
                     <div class="text-gray-500 fw-semibold fs-6">Entre para administrar</div>

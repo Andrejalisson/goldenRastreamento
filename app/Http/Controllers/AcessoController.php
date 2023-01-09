@@ -15,7 +15,7 @@ class AcessoController extends Controller{
     public function login(Request $request){
         if (Auth::check()) {
             $request->session()->flash('sucesso', 'Bem vindo novamente!');
-            return redirect('/Dashboard');
+            return redirect('/Banner');
         }
         $title = "Login";
         return view('admin.acesso.login')->with(compact('title'));
@@ -70,7 +70,7 @@ class AcessoController extends Controller{
     public function verifica(Request $request){
         if (Auth::attempt(['email' => $request->email, 'password' => $request->password], false)) {
             $request->session()->flash('sucesso', 'Bom trabalho!');
-            return redirect('/Dashboard');
+            return redirect('/Banner');
         }
     }
 
